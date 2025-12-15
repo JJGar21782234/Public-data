@@ -1,0 +1,6434 @@
+[
+  {
+    "Road name": "BEACON STREET (PART)",
+    "Length": "837",
+    "Round name": "Lichfield weekly",
+    "Frequency": "Weekly"
+  },
+  {
+    "Road name": "BIRMINGHAM ROAD",
+    "Length": "519",
+    "Round name": "Lichfield weekly",
+    "Frequency": "Weekly"
+  },
+  {
+    "Road name": "BURTON OLD ROAD (PART)",
+    "Length": "300",
+    "Round name": "Lichfield weekly",
+    "Frequency": "Weekly"
+  },
+  {
+    "Road name": "CHURCH STREET",
+    "Length": "300",
+    "Round name": "Lichfield weekly",
+    "Frequency": "Weekly"
+  },
+  {
+    "Road name": "ROTTON ROW",
+    "Length": "229",
+    "Round name": "Lichfield weekly",
+    "Frequency": "Weekly"
+  },
+  {
+    "Road name": "STAFFORD ROAD",
+    "Length": "552",
+    "Round name": "Lichfield weekly",
+    "Frequency": "Weekly"
+  },
+  {
+    "Road name": "STURGEONS HILL",
+    "Length": "125",
+    "Round name": "Lichfield weekly",
+    "Frequency": "Weekly"
+  },
+  {
+    "Road name": "THE FRIARY AND FRIARY ROAD",
+    "Length": "2247",
+    "Round name": "Lichfield weekly",
+    "Frequency": "Weekly"
+  },
+  {
+    "Road name": "TRENT VALLEY ROAD",
+    "Length": "1176",
+    "Round name": "Lichfield weekly",
+    "Frequency": "Weekly"
+  },
+  {
+    "Road name": "UPPER ST. JOHN STREET",
+    "Length": "833",
+    "Round name": "Lichfield weekly",
+    "Frequency": "Weekly"
+  },
+  {
+    "Road name": "WALSALL ROAD (PART)",
+    "Length": "1127",
+    "Round name": "Lichfield weekly",
+    "Frequency": "Weekly"
+  },
+  {
+    "Road name": "WISSAGE ROAD (PART)",
+    "Length": "118",
+    "Round name": "Lichfield weekly",
+    "Frequency": "Weekly"
+  },
+  {
+    "Road name": "CURBOROUGH ROAD",
+    "Length": "1220",
+    "Round name": "LICHFIELD RT. 2 FORTNIGHTLY WEEKS 1-3.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "LEVETTS FIELD",
+    "Length": "106",
+    "Round name": "LICHFIELD RT. 2 FORTNIGHTLY WEEKS 1-3.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "NETHERSTOWE",
+    "Length": "769",
+    "Round name": "LICHFIELD RT. 2 FORTNIGHTLY WEEKS 1-3.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "PARTRIDGE CROFT",
+    "Length": "197",
+    "Round name": "LICHFIELD RT. 2 FORTNIGHTLY WEEKS 1-3.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "PONESFIELD ROAD",
+    "Length": "446",
+    "Round name": "LICHFIELD RT. 2 FORTNIGHTLY WEEKS 1-3.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "PURCELL AVENUE",
+    "Length": "623",
+    "Round name": "LICHFIELD RT. 2 FORTNIGHTLY WEEKS 1-3.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "ST. CHADS ROAD",
+    "Length": "350",
+    "Round name": "LICHFIELD RT. 2 FORTNIGHTLY WEEKS 1-3.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "ST. MICHAELS ROAD (PART)",
+    "Length": "817",
+    "Round name": "LICHFIELD RT. 2 FORTNIGHTLY WEEKS 1-3.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "STATION ROAD",
+    "Length": "521",
+    "Round name": "LICHFIELD RT. 2 FORTNIGHTLY WEEKS 1-3.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "STOWE ROAD",
+    "Length": "363",
+    "Round name": "LICHFIELD RT. 2 FORTNIGHTLY WEEKS 1-3.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "STYCHBROOK GARDENS",
+    "Length": "197",
+    "Round name": "LICHFIELD RT. 2 FORTNIGHTLY WEEKS 1-3.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "AUSTIN COTE LANE",
+    "Length": "302",
+    "Round name": "LICHFIELD. RT. 3 FORTNIGHTLY. WEEKS 1 - 3.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "BOLEY LANE",
+    "Length": "735",
+    "Round name": "LICHFIELD. RT. 3 FORTNIGHTLY. WEEKS 1 - 3.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "BROAD LANE",
+    "Length": "576",
+    "Round name": "LICHFIELD. RT. 3 FORTNIGHTLY. WEEKS 1 - 3.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "BROWNSFIELD ROAD",
+    "Length": "587",
+    "Round name": "LICHFIELD. RT. 3 FORTNIGHTLY. WEEKS 1 - 3.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "CHERRY ORCHARD",
+    "Length": "693",
+    "Round name": "LICHFIELD. RT. 3 FORTNIGHTLY. WEEKS 1 - 3.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "GORSE LANE",
+    "Length": "265",
+    "Round name": "LICHFIELD. RT. 3 FORTNIGHTLY. WEEKS 1 - 3.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "ROMAN WAY",
+    "Length": "849",
+    "Round name": "LICHFIELD. RT. 3 FORTNIGHTLY. WEEKS 1 - 3.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "RYKNILD STREET",
+    "Length": "1100",
+    "Round name": "LICHFIELD. RT. 3 FORTNIGHTLY. WEEKS 1 - 3.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "WISSAGE ROAD",
+    "Length": "583",
+    "Round name": "LICHFIELD. RT. 3 FORTNIGHTLY. WEEKS 1 - 3.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "ANSON AVENUE",
+    "Length": "397",
+    "Round name": "LICHFIELD RT.4 FORTNIGHTLY WEEKS 2 - 4.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "DIMBLES HILL",
+    "Length": "304",
+    "Round name": "LICHFIELD RT.4 FORTNIGHTLY WEEKS 2 - 4.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "DIMBLES LANE",
+    "Length": "596",
+    "Round name": "LICHFIELD RT.4 FORTNIGHTLY WEEKS 2 - 4.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "FRIDAY ACRE",
+    "Length": "364",
+    "Round name": "LICHFIELD RT.4 FORTNIGHTLY WEEKS 2 - 4.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "GAIA LANE",
+    "Length": "929",
+    "Round name": "LICHFIELD RT.4 FORTNIGHTLY WEEKS 2 - 4.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "BULLDOG LANE",
+    "Length": "221",
+    "Round name": "LICHFIELD RT.4 FORTNIGHTLY WEEKS 2 - 4.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "GRANGE LANE",
+    "Length": "487",
+    "Round name": "LICHFIELD RT.4 FORTNIGHTLY WEEKS 2 - 4.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "GREENCROFT",
+    "Length": "411",
+    "Round name": "LICHFIELD RT.4 FORTNIGHTLY WEEKS 2 - 4.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "OAKENFIELD",
+    "Length": "409",
+    "Round name": "LICHFIELD RT.4 FORTNIGHTLY WEEKS 2 - 4.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "REYNOLDS CLOSE",
+    "Length": "60",
+    "Round name": "LICHFIELD RT.4 FORTNIGHTLY WEEKS 2 - 4.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "SWALLOW CROFT",
+    "Length": "361",
+    "Round name": "LICHFIELD RT.4 FORTNIGHTLY WEEKS 2 - 4.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "THE LEASOWE",
+    "Length": "484",
+    "Round name": "LICHFIELD RT.4 FORTNIGHTLY WEEKS 2 - 4.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "WESTON ROAD",
+    "Length": "892",
+    "Round name": "LICHFIELD RT.4 FORTNIGHTLY WEEKS 2 - 4.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "WHEEL LANE",
+    "Length": "265",
+    "Round name": "LICHFIELD RT.4 FORTNIGHTLY WEEKS 2 - 4.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "WINDMILL CLOSE",
+    "Length": "146",
+    "Round name": "LICHFIELD RT.4 FORTNIGHTLY WEEKS 2 - 4.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "WINDMILL LANE",
+    "Length": "238",
+    "Round name": "LICHFIELD RT.4 FORTNIGHTLY WEEKS 2 - 4.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "EASTERN AVENUE",
+    "Length": "4105",
+    "Round name": "LICHFIELD RT.5 FORTNIGHTLY WEEKS 2 - 4.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "BIRCH TERRACE",
+    "Length": "332",
+    "Round name": "BURNTWOOD RT.6A. WEEKS 1 - 3, WEDNESDAYS.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "BONEY HAY ROAD (PART)",
+    "Length": "707",
+    "Round name": "BURNTWOOD RT.6A. WEEKS 1 - 3, WEDNESDAYS.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "BRIDGE CROSS ROAD",
+    "Length": "669",
+    "Round name": "BURNTWOOD RT.6A. WEEKS 1 - 3, WEDNESDAYS.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "CANNOCK ROAD (PART)",
+    "Length": "605",
+    "Round name": "BURNTWOOD RT.6A. WEEKS 1 - 3, WEDNESDAYS.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "HIGH STREET, CHASETOWN",
+    "Length": "692",
+    "Round name": "BURNTWOOD RT.6A. WEEKS 1 - 3, WEDNESDAYS.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "MILESTONE WAY",
+    "Length": "1070",
+    "Round name": "BURNTWOOD RT.6A. WEEKS 1 - 3, WEDNESDAYS.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "MORLEY ROAD (PART)",
+    "Length": "742",
+    "Round name": "BURNTWOOD RT.6A. WEEKS 1 - 3, WEDNESDAYS.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "OGLEY HAY ROAD",
+    "Length": "1098",
+    "Round name": "BURNTWOOD RT.6A. WEEKS 1 - 3, WEDNESDAYS.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "QUEEN STREET (PART)",
+    "Length": "250",
+    "Round name": "BURNTWOOD RT.6A. WEEKS 1 - 3, WEDNESDAYS.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "RUGELEY ROAD (PART)",
+    "Length": "1215",
+    "Round name": "BURNTWOOD RT.6A. WEEKS 1 - 3, WEDNESDAYS.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "SPINNEY LANE",
+    "Length": "641",
+    "Round name": "BURNTWOOD RT.6A. WEEKS 1 - 3, WEDNESDAYS.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "VICTORY AVENUE",
+    "Length": "180",
+    "Round name": "BURNTWOOD RT.6A. WEEKS 1 - 3, WEDNESDAYS.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "BRIDGE CROSS ROAD (PART)",
+    "Length": "311",
+    "Round name": "BURNTWOOD RT.6B. WEEKS 1 - 3, THURSDAYS",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "CANNOCK ROAD (PART)",
+    "Length": "85",
+    "Round name": "BURNTWOOD RT.6B. WEEKS 1 - 3, THURSDAYS",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "CANNOCK ROAD (PART) (2)",
+    "Length": "94",
+    "Round name": "BURNTWOOD RT.6B. WEEKS 1 - 3, THURSDAYS",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "CHASE ROAD",
+    "Length": "1370",
+    "Round name": "BURNTWOOD RT.6B. WEEKS 1 - 3, THURSDAYS",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "HIGH STREET (PART) (1)",
+    "Length": "61",
+    "Round name": "BURNTWOOD RT.6B. WEEKS 1 - 3, THURSDAYS",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "HIGH STREET (PART) (2)",
+    "Length": "615",
+    "Round name": "BURNTWOOD RT.6B. WEEKS 1 - 3, THURSDAYS",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "HIGHFIELD ROAD",
+    "Length": "764",
+    "Round name": "BURNTWOOD RT.6B. WEEKS 1 - 3, THURSDAYS",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "KEBLE CLOSE",
+    "Length": "49",
+    "Round name": "BURNTWOOD RT.6B. WEEKS 1 - 3, THURSDAYS",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "MORLEY ROAD (PART)",
+    "Length": "742",
+    "Round name": "BURNTWOOD RT.6B. WEEKS 1 - 3, THURSDAYS",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "QUEEN STREET",
+    "Length": "108",
+    "Round name": "BURNTWOOD RT.6B. WEEKS 1 - 3, THURSDAYS",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "RUGELEY ROAD (PART)",
+    "Length": "101",
+    "Round name": "BURNTWOOD RT.6B. WEEKS 1 - 3, THURSDAYS",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "RUGELEY ROAD (PART) (2)",
+    "Length": "122",
+    "Round name": "BURNTWOOD RT.6B. WEEKS 1 - 3, THURSDAYS",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "SHIRELEE CLOSE",
+    "Length": "49",
+    "Round name": "BURNTWOOD RT.6B. WEEKS 1 - 3, THURSDAYS",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "SLADE AVENUE",
+    "Length": "431",
+    "Round name": "BURNTWOOD RT.6B. WEEKS 1 - 3, THURSDAYS",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "SPRINGHILL ROAD",
+    "Length": "671",
+    "Round name": "BURNTWOOD RT.6B. WEEKS 1 - 3, THURSDAYS",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "VICTORY AVENUE",
+    "Length": "178",
+    "Round name": "BURNTWOOD RT.6B. WEEKS 1 - 3, THURSDAYS",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "WENTWORTH CLOSE",
+    "Length": "50",
+    "Round name": "BURNTWOOD RT.6B. WEEKS 1 - 3, THURSDAYS",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "ASPEN GROVE",
+    "Length": "68",
+    "Round name": "BURNTWOOD RT. 7A FORTNIGHTLY, WEDNESDAYS",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "BRIDGE CROSS ROAD",
+    "Length": "669",
+    "Round name": "BURNTWOOD RT. 7A FORTNIGHTLY, WEDNESDAYS",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "EASTGATE STREET",
+    "Length": "182",
+    "Round name": "BURNTWOOD RT. 7A FORTNIGHTLY, WEDNESDAYS",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "HIGH STREET CHASE TERRACE",
+    "Length": "509",
+    "Round name": "BURNTWOOD RT. 7A FORTNIGHTLY, WEDNESDAYS",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "HIGH STREET, CHASE TOWN",
+    "Length": "692",
+    "Round name": "BURNTWOOD RT. 7A FORTNIGHTLY, WEDNESDAYS",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "IRONSTONE ROAD",
+    "Length": "1014",
+    "Round name": "BURNTWOOD RT. 7A FORTNIGHTLY, WEDNESDAYS",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "MILESTONE WAY",
+    "Length": "1070",
+    "Round name": "BURNTWOOD RT. 7A FORTNIGHTLY, WEDNESDAYS",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "PARKHILL ROAD",
+    "Length": "165",
+    "Round name": "BURNTWOOD RT. 7A FORTNIGHTLY, WEDNESDAYS",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "PRINCESS STREET",
+    "Length": "588",
+    "Round name": "BURNTWOOD RT. 7A FORTNIGHTLY, WEDNESDAYS",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "QUEEN STREET (PART)",
+    "Length": "250",
+    "Round name": "BURNTWOOD RT. 7A FORTNIGHTLY, WEDNESDAYS",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "REDWOOD DRIVE",
+    "Length": "671",
+    "Round name": "BURNTWOOD RT. 7A FORTNIGHTLY, WEDNESDAYS",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "RUGELEY ROAD (PART)",
+    "Length": "729",
+    "Round name": "BURNTWOOD RT. 7A FORTNIGHTLY, WEDNESDAYS",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "SCHOOL LANE",
+    "Length": "623",
+    "Round name": "BURNTWOOD RT. 7A FORTNIGHTLY, WEDNESDAYS",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "SHELLEY ROAD",
+    "Length": "207",
+    "Round name": "BURNTWOOD RT. 7A FORTNIGHTLY, WEDNESDAYS",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "VICTORY AVENUE",
+    "Length": "180",
+    "Round name": "BURNTWOOD RT. 7A FORTNIGHTLY, WEDNESDAYS",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "WATER STREET (PART)",
+    "Length": "140",
+    "Round name": "BURNTWOOD RT. 7B FORTNIGHTLY, THURSDAYS.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "RUGELEY ROAD (PART) (1)",
+    "Length": "101",
+    "Round name": "BURNTWOOD RT. 7B FORTNIGHTLY, THURSDAYS.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "MILESTONE WAY",
+    "Length": "1070",
+    "Round name": "BURNTWOOD RT. 7B FORTNIGHTLY, THURSDAYS.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "SYCAMORE ROAD",
+    "Length": "496",
+    "Round name": "BURNTWOOD RT. 7B FORTNIGHTLY, THURSDAYS.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "OAKDENE ROAD",
+    "Length": "714",
+    "Round name": "BURNTWOOD RT. 7B FORTNIGHTLY, THURSDAYS.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "HIGH STREET (PART)",
+    "Length": "61",
+    "Round name": "BURNTWOOD RT. 7B FORTNIGHTLY, THURSDAYS.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "QUEEN STREET",
+    "Length": "792",
+    "Round name": "BURNTWOOD RT. 7B FORTNIGHTLY, THURSDAYS.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "SPRINGFIELD ROAD",
+    "Length": "671",
+    "Round name": "BURNTWOOD RT. 7B FORTNIGHTLY, THURSDAYS.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "CANNOCK ROAD (PART)",
+    "Length": "862",
+    "Round name": "BURNTWOOD RT. 7B FORTNIGHTLY, THURSDAYS.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "RUGELEY ROAD (PART) (2)",
+    "Length": "480",
+    "Round name": "BURNTWOOD RT. 7B FORTNIGHTLY, THURSDAYS.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "CHASE ROAD",
+    "Length": "767",
+    "Round name": "BURNTWOOD RT. 7B FORTNIGHTLY, THURSDAYS.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "GRANGE ROAD",
+    "Length": "222",
+    "Round name": "BURNTWOOD RT. 7B FORTNIGHTLY, THURSDAYS.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "THE RIDGEWAY",
+    "Length": "620",
+    "Round name": "BURNTWOOD RT. 7B FORTNIGHTLY, THURSDAYS.",
+    "Frequency": "Fortnightly"
+  },
+  {
+    "Road name": "ABNALLS LANE (PART)",
+    "Length": "307",
+    "Round name": "LICHFIELD MONTHLY, RT.9-9A.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "BIRMINGHAM ROAD",
+    "Length": "2779",
+    "Round name": "LICHFIELD MONTHLY, RT.9-9A.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "LIMBURGH AVENUE",
+    "Length": "780",
+    "Round name": "LICHFIELD MONTHLY, RT.9-9A.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "LONDON ROAD ( TO A.38)",
+    "Length": "1142",
+    "Round name": "LICHFIELD MONTHLY, RT.9-9A.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "LONDON ROAD SERVICE ROAD",
+    "Length": "305",
+    "Round name": "LICHFIELD MONTHLY, RT.9-9A.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "LOWER SANDFORD STREET",
+    "Length": "350",
+    "Round name": "LICHFIELD MONTHLY, RT.9-9A.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "QUEEN STREET",
+    "Length": "354",
+    "Round name": "LICHFIELD MONTHLY, RT.9-9A.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "SAINTE FOY AVENUE",
+    "Length": "865",
+    "Round name": "LICHFIELD MONTHLY, RT.9-9A.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "SHORTBUTTS LANE",
+    "Length": "695",
+    "Round name": "LICHFIELD MONTHLY, RT.9-9A.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "TAMWORTH ROAD (TO RYKNILD STREET)",
+    "Length": "1211",
+    "Round name": "LICHFIELD MONTHLY, RT.9-9A.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "WALSALL ROAD (PART)",
+    "Length": "1127",
+    "Round name": "LICHFIELD MONTHLY, RT.9-9A.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "WALSALL ROAD (TO MUCKLEY CORNER)",
+    "Length": "3115",
+    "Round name": "LICHFIELD MONTHLY, RT.9-9A.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "WESTERN BY-PASS",
+    "Length": "1672",
+    "Round name": "LICHFIELD MONTHLY, RT.9-9A.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "A.5190 LICHFIELD ROAD",
+    "Length": "2541",
+    "Round name": "BURNTWOOD MONTHLY.  ROUTE 10/10A.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "A.5190 MINERS WAY ( TO A.5)",
+    "Length": "3987",
+    "Round name": "BURNTWOOD MONTHLY.  ROUTE 10/10A.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "CHURCH ROAD",
+    "Length": "1154",
+    "Round name": "BURNTWOOD MONTHLY.  ROUTE 10/10A.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "GLASS CROFT",
+    "Length": "80",
+    "Round name": "BURNTWOOD MONTHLY.  ROUTE 10/10A.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "HANNAY HAY ROAD",
+    "Length": "198",
+    "Round name": "BURNTWOOD MONTHLY.  ROUTE 10/10A.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "HIGHFIELDS ROAD",
+    "Length": "881",
+    "Round name": "BURNTWOOD MONTHLY.  ROUTE 10/10A.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "HIGHFIELDS ROAD SERVICE ROAD",
+    "Length": "67",
+    "Round name": "BURNTWOOD MONTHLY.  ROUTE 10/10A.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "HOSPITAL ROAD",
+    "Length": "765",
+    "Round name": "BURNTWOOD MONTHLY.  ROUTE 10/10A.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "JONES LANE",
+    "Length": "175",
+    "Round name": "BURNTWOOD MONTHLY.  ROUTE 10/10A.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "MILESTONE WAY",
+    "Length": "1109",
+    "Round name": "BURNTWOOD MONTHLY.  ROUTE 10/10A.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "NEW ROAD",
+    "Length": "508",
+    "Round name": "BURNTWOOD MONTHLY.  ROUTE 10/10A.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "NORTON LANE",
+    "Length": "995",
+    "Round name": "BURNTWOOD MONTHLY.  ROUTE 10/10A.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "RUGELEY ROAD (PART - DUKE RD. TO SEVERNS RD.)",
+    "Length": "400",
+    "Round name": "BURNTWOOD MONTHLY.  ROUTE 10/10A.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "SEVERNS ROAD.",
+    "Length": "632",
+    "Round name": "BURNTWOOD MONTHLY.  ROUTE 10/10A.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "ST MATTHEWS AVENUE",
+    "Length": "135",
+    "Round name": "BURNTWOOD MONTHLY.  ROUTE 10/10A.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "ST. MATTHEWS ROAD",
+    "Length": "235",
+    "Round name": "BURNTWOOD MONTHLY.  ROUTE 10/10A.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "STABLES WAY",
+    "Length": "1575",
+    "Round name": "BURNTWOOD MONTHLY.  ROUTE 10/10A.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "ABNALLS CROFT",
+    "Length": "115",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BEACON GARDENS",
+    "Length": "131",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BEECROFT AVENUE",
+    "Length": "160",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BROOK CLOSE",
+    "Length": "86",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CRANEFIELDS",
+    "Length": "87",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CROSS IN HANDS LANE",
+    "Length": "166",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "DARWIN CLOSE",
+    "Length": "99",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "FERN CROFT",
+    "Length": "72",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "FERNDALE ROAD",
+    "Length": "580",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "FORGE LANE",
+    "Length": "566",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "GAIAFIELDS CRESCENT",
+    "Length": "143",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "GAIAFIELDS ROAD",
+    "Length": "300",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "GARRICK CLOSE",
+    "Length": "96",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "GARRICK ROAD",
+    "Length": "187",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "GIFFORD CROFT",
+    "Length": "220",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HAYES VIEW",
+    "Length": "119",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HEENAN GROVE",
+    "Length": "101",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HIGH GRANGE",
+    "Length": "333",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "IRVINE CLOSE",
+    "Length": "121",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "KEAN CLOSE",
+    "Length": "177",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LITTLE GRANGE",
+    "Length": "72",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LOMAX CLOSE",
+    "Length": "94",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LONGSTAFF CROFT",
+    "Length": "193",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LYN AVENUE",
+    "Length": "125",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LYNFIELD ROAD",
+    "Length": "125",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MARTIN CROFT",
+    "Length": "154",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "NETHER BEACON",
+    "Length": "288",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "NEWTON ROAD",
+    "Length": "97",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "NURSERY CROFT",
+    "Length": "101",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ORCHARD ROAD",
+    "Length": "117",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "PINFOLD ROAD",
+    "Length": "80",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SIDDONS CLOSE",
+    "Length": "97",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SMALL RIDGE",
+    "Length": "86",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SMITHY LANE",
+    "Length": "65",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "TERRY CLOSE",
+    "Length": "165",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "THE CHARTERS",
+    "Length": "193",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "THE WINDINGS",
+    "Length": "114",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "THISTLEY NOOK",
+    "Length": "66",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "VALE CLOSE.",
+    "Length": "85",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WOLSEY ROAD",
+    "Length": "326",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WOOD CROFT",
+    "Length": "166",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WOOD RIDING",
+    "Length": "131",
+    "Round name": "RT.11 LICHFIELD - 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ANGORFA CLOSE",
+    "Length": "88",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BARNFIELD CLOSE",
+    "Length": "99",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BEACON FIELDS",
+    "Length": "94",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BURNS CLOSE",
+    "Length": "68",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BYRON AVENUE",
+    "Length": "112",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CATHEDERAL RISE",
+    "Length": "72",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CHAPEL LANE",
+    "Length": "316",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CHAUCER CLOSE",
+    "Length": "80",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CHESTERFIELD ROAD",
+    "Length": "767",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CHRISTCHURCH GARDENS",
+    "Length": "63",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CHRISTCHURCH LANE",
+    "Length": "741",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "DAVIDSON ROAD",
+    "Length": "116",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "DEANS SLADE DRIVE",
+    "Length": "224",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "DOVEHOUSE FIELDS",
+    "Length": "166",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ERASMUS WAY",
+    "Length": "82",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "FRIARY AVENUE",
+    "Length": "306",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "GAIA STOWE",
+    "Length": "40",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "GREENHOUGH ROAD",
+    "Length": "168",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "IVANHOE ROAD",
+    "Length": "279",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "JORDAN CLOSE",
+    "Length": "47",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "KENILWORTH ROAD",
+    "Length": "170",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LEOMANSLEY CLOSE",
+    "Length": "50",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LEOMANSLEY ROAD",
+    "Length": "140",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LEOMANSLEY VIEW",
+    "Length": "359",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LILLINGTON CLOSE",
+    "Length": "54",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MASEFIELD CLOSE",
+    "Length": "236",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "REDLOCK FIELDS",
+    "Length": "258",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SAXON WALK",
+    "Length": "44",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SCOTT CLOSE",
+    "Length": "198",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SECKHAM ROAD",
+    "Length": "95",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SHAKESPEAR AVENUE",
+    "Length": "208",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SHAW LANE",
+    "Length": "117",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SPENCER ROAD",
+    "Length": "185",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ST. JOHN CLOSE",
+    "Length": "49",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SWINFEN BROUN ROAD",
+    "Length": "214",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "THE DELL",
+    "Length": "133",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "THE PADDOCK",
+    "Length": "136",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "THE PARCHMENTS",
+    "Length": "304",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "TOWNFIELDS",
+    "Length": "128",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "VICTORIA GAREDENS",
+    "Length": "72",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WALSALL ROAD SERVICE ROAD",
+    "Length": "76",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WILMOT CLOSE",
+    "Length": "43",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WILTELL ROAD",
+    "Length": "112",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WORDSWORTH CLOSE",
+    "Length": "194",
+    "Round name": "ROUTE 12. LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BARN CLOSE",
+    "Length": "69",
+    "Round name": "ROUTE 13.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BLOOMFIELD CRESCENT",
+    "Length": "326",
+    "Round name": "ROUTE 13.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ELGAR CLOSE",
+    "Length": "173",
+    "Round name": "ROUTE 13.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "FALLOW ROAD",
+    "Length": "116",
+    "Round name": "ROUTE 13.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "FIELD ROAD",
+    "Length": "243",
+    "Round name": "ROUTE 13.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "FRANCIS ROAD",
+    "Length": "544",
+    "Round name": "ROUTE 13.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "GILES ROAD",
+    "Length": "567",
+    "Round name": "ROUTE 13.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "GLOUCESTER CLOSE",
+    "Length": "106",
+    "Round name": "ROUTE 13.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HARWOOD ROAD",
+    "Length": "103",
+    "Round name": "ROUTE 13.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HAWKINS CLOSE",
+    "Length": "56",
+    "Round name": "ROUTE 13.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HEWITT CLOSE",
+    "Length": "81",
+    "Round name": "ROUTE 13.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "JACKSON ROAD",
+    "Length": "125",
+    "Round name": "ROUTE 13.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LEYFIELDS",
+    "Length": "280",
+    "Round name": "ROUTE 13.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LINCOLN CLOSE",
+    "Length": "421",
+    "Round name": "ROUTE 13.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MEADOW BROOK ROAD",
+    "Length": "678",
+    "Round name": "ROUTE 13.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "NORWICH CLOSE",
+    "Length": "306",
+    "Round name": "ROUTE 13.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "PLOUGHMANS WALK",
+    "Length": "137",
+    "Round name": "ROUTE 13.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "PONES GREEN",
+    "Length": "134",
+    "Round name": "ROUTE 13.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SALISBURY CLOSE",
+    "Length": "65",
+    "Round name": "ROUTE 13.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SHEPHERD CLOSE",
+    "Length": "107",
+    "Round name": "ROUTE 13.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SIMPSON ROAD",
+    "Length": "327",
+    "Round name": "ROUTE 13.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SOUTHWARK CLOSE",
+    "Length": "203",
+    "Round name": "ROUTE 13.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ST. ANNE'S ROAD",
+    "Length": "196",
+    "Round name": "ROUTE 13.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ST. CATHERINES ROAD",
+    "Length": "143",
+    "Round name": "ROUTE 13.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ST. HELENS ROAD",
+    "Length": "71",
+    "Round name": "ROUTE 13.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ST. MARGARETS ROAD",
+    "Length": "154",
+    "Round name": "ROUTE 13.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ST. MARYS ROAD",
+    "Length": "164",
+    "Round name": "ROUTE 13.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "THE GARTH",
+    "Length": "165",
+    "Round name": "ROUTE 13.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "TRURO CLOSE",
+    "Length": "102",
+    "Round name": "ROUTE 13.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WILLOW TREE CLOSE",
+    "Length": "78",
+    "Round name": "ROUTE 13.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WINCHESTER CLOSE",
+    "Length": "101",
+    "Round name": "ROUTE 13.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WORCESTER CLOSE",
+    "Length": "238",
+    "Round name": "ROUTE 13.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "AUCHINLECH DRIVE",
+    "Length": "214",
+    "Round name": "ROUTE 14  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "AUTUMN DRIVE",
+    "Length": "218",
+    "Round name": "ROUTE 14  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BENSON CLOSE",
+    "Length": "153",
+    "Round name": "ROUTE 14  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BOWER CLOSE",
+    "Length": "127",
+    "Round name": "ROUTE 14  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CANTERBURY CLOSE",
+    "Length": "88",
+    "Round name": "ROUTE 14  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CHADSWELL HEIGHTS",
+    "Length": "334",
+    "Round name": "ROUTE 14  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CHESTER CLOSE",
+    "Length": "72",
+    "Round name": "ROUTE 14  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "FECKNAM WAY",
+    "Length": "517",
+    "Round name": "ROUTE 14  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "FURNIVAL CRESCENT",
+    "Length": "595",
+    "Round name": "ROUTE 14  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "GILBERT ROAD",
+    "Length": "500",
+    "Round name": "ROUTE 14  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HAYWORTH ROAD",
+    "Length": "45",
+    "Round name": "ROUTE 14  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HERMES ROAD",
+    "Length": "221",
+    "Round name": "ROUTE 14  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "JOHNSON CLOSE",
+    "Length": "230",
+    "Round name": "ROUTE 14  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "NETHERSTOWE",
+    "Length": "1129",
+    "Round name": "ROUTE 14  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "NETHERSTOWE LANE (PART)",
+    "Length": "273",
+    "Round name": "ROUTE 14  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SAMUEL CLOSE",
+    "Length": "60",
+    "Round name": "ROUTE 14  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SCOTCH ORCHARD",
+    "Length": "736",
+    "Round name": "ROUTE 14  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SPRING GROVE",
+    "Length": "269",
+    "Round name": "ROUTE 14  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "STOWE CROFT",
+    "Length": "327",
+    "Round name": "ROUTE 14  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SULLIVAN WAY",
+    "Length": "111",
+    "Round name": "ROUTE 14  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SUMMER GROVE",
+    "Length": "69",
+    "Round name": "ROUTE 14  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "VERDI COURT",
+    "Length": "143",
+    "Round name": "ROUTE 14  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "VULCAN ROAD",
+    "Length": "372",
+    "Round name": "ROUTE 14  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WALKERS CROFT",
+    "Length": "82",
+    "Round name": "ROUTE 14  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WATERY LANE (PART)",
+    "Length": "270",
+    "Round name": "ROUTE 14  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WINTER GROVE",
+    "Length": "64",
+    "Round name": "ROUTE 14  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "YORK CLOSE",
+    "Length": "147",
+    "Round name": "ROUTE 14  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ASH GROVE",
+    "Length": "151",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ASPEN CLOSE",
+    "Length": "91",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BEEECHFIELD RISE",
+    "Length": "113",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BIRCH GROVE",
+    "Length": "85",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BLACKTHORNE ROAD",
+    "Length": "100",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BLUEBIRD CLOSE",
+    "Length": "92",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BURTON OLD ROAD EAST",
+    "Length": "310",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BURTON OLD ROAD WEST",
+    "Length": "670",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CHARNWOOD CLOSE",
+    "Length": "235",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "COPPERFIELDS",
+    "Length": "109",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CORNFIELD DRIVE",
+    "Length": "446",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "COVEY CLOSE",
+    "Length": "199",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CROSSFIELDS ROAD",
+    "Length": "198",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "DARNFORD VIEW",
+    "Length": "121",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "GORSTY BANK",
+    "Length": "109",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HAWKESMOOR DRIVE",
+    "Length": "246",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HENDERSON CLIOSE",
+    "Length": "229",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HOBS ROAD",
+    "Length": "197",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LAMBOURNE CLOSE",
+    "Length": "53",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LAUREL CLOSE",
+    "Length": "50",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LEWIS CLOSE",
+    "Length": "147",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LIME GROVE",
+    "Length": "211",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LUNNS CROFT",
+    "Length": "100",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MALLICOT CLOSE",
+    "Length": "145",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MANLEY ROAD",
+    "Length": "153",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MARYVALE COURT",
+    "Length": "143",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MAYBANK CLOSE",
+    "Length": "114",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MULBERRY DRIVE",
+    "Length": "47",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "NETHERBRIDGE AVENUE",
+    "Length": "246",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ROCKLANDS CRESCENT",
+    "Length": "338",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ROWAN CLOSE",
+    "Length": "125",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SHERIFF'S RIDE",
+    "Length": "99",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SMITHFIELD RISE",
+    "Length": "145",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SPEARHILL",
+    "Length": "178",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "THE WOODLANDS",
+    "Length": "98",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "TRENT VALLEY SERVICE ROAD",
+    "Length": "103",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "VALLEY LANE",
+    "Length": "607",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WHITLEY DRIVE",
+    "Length": "74",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WISSAGE COURT",
+    "Length": "82",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WISSAGE LANE",
+    "Length": "351",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "YEW TREE AVENUE",
+    "Length": "363",
+    "Round name": "ROUTE 15.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ALDER CLOSE",
+    "Length": "62",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ASHMOLE CLOSE",
+    "Length": "227",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BIRCHWOOD ROAD",
+    "Length": "656",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BRACKEN CLOSE",
+    "Length": "303",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BRITANNIA WAY",
+    "Length": "499",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BURTON OLD ROAD",
+    "Length": "815",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CAPPERS LANE (PART)",
+    "Length": "980",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CEDAR CLOSE",
+    "Length": "78",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "COPPICE GROVE",
+    "Length": "96",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CURLEW CLOSE",
+    "Length": "330",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "DARNFORD LANE (PART)",
+    "Length": "504",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "DARNFORD MOORS",
+    "Length": "222",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ELIAS CLOSE",
+    "Length": "48",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "EUROPA WAY",
+    "Length": "586",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "FREEFORD GARDENS",
+    "Length": "181",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "GABLE CROFT",
+    "Length": "373",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HOLLAND CLOSE *added 28/6/10",
+    "Length": "72",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HARTSLADE",
+    "Length": "345",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "KEEPERS CLOSE",
+    "Length": "70",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LARCH CLOSE",
+    "Length": "64",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LIME GROVE *added 28/6/10",
+    "Length": "39",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MAPLE GROVE",
+    "Length": "161",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MEADOW CROFT *added 28/6/10",
+    "Length": "65",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "PARK END",
+    "Length": "55",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "PROSPECT DRIVE",
+    "Length": "120",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "RAYSON CLOSE *added 28/6/10",
+    "Length": "45",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SHERIFFS CLOSE",
+    "Length": "207",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "THE PINES",
+    "Length": "279",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "THE SPIRES",
+    "Length": "170",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "TITAN WAY",
+    "Length": "156",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "TUDOR CLOSE",
+    "Length": "135",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WALNUT GROVE",
+    "Length": "50",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WARREN CLOSE",
+    "Length": "294",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WIGHTMAN CLOSE",
+    "Length": "97",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WILLOWMERE DRIVE",
+    "Length": "338",
+    "Round name": "ROUTE 16.  LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ABBOTSFORD ROAD",
+    "Length": "453",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ASCOT CLOSE",
+    "Length": "134",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BASKEYFIELD CLOSE",
+    "Length": "276",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BEECH GARDENS",
+    "Length": "405",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BLOOMSBURY WAY",
+    "Length": "81",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BOLEY CLOSE",
+    "Length": "152",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BOLEY COTTAGE LANE",
+    "Length": "204",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BROADLANDS RISE",
+    "Length": "376",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CARMICHAEL CLOSE",
+    "Length": "198",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "COLTMAN CLOSE",
+    "Length": "279",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CRANLEIGH WAY",
+    "Length": "71",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ELM GARDENS",
+    "Length": "216",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "EPSOM CLOSE",
+    "Length": "54",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "FLINN CLOSE",
+    "Length": "113",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "GOODWOOD CLOSE",
+    "Length": "83",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "GREENWOOD DRIVE",
+    "Length": "43",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HAVEFIELD AVENUE",
+    "Length": "183",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HAYMOOR",
+    "Length": "419",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HAZEL GROVE",
+    "Length": "243",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HERITAGE COURT",
+    "Length": "427",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HOLYWELL RISE",
+    "Length": "102",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LAWFORD AVENUE",
+    "Length": "73",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MANOR RISE",
+    "Length": "820",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MAWGAN DRIVE",
+    "Length": "155",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MESNES GREEN",
+    "Length": "193",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "NEWLYN CLOSE",
+    "Length": "111",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "OAKHURST",
+    "Length": "294",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "PENTIRE ROAD",
+    "Length": "513",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "RICHMOND DRIVE",
+    "Length": "237",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ROMILLY CLOSE",
+    "Length": "69",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SUNBURY AVENUE",
+    "Length": "37",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "THE BRAMBLES",
+    "Length": "191",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "TREGONY RISE",
+    "Length": "69",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "TRENANCE CLOSE",
+    "Length": "107",
+    "Round name": "Frequency",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BALMORAL CLOSE",
+    "Length": "360",
+    "Round name": "ROUTE 18.   LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BORROWCOP LANE",
+    "Length": "1057",
+    "Round name": "ROUTE 18.   LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CRICKET LANE",
+    "Length": "541",
+    "Round name": "ROUTE 18.   LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CROMWELLS MEADOW",
+    "Length": "258",
+    "Round name": "ROUTE 18.   LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CROSS LANE",
+    "Length": "55",
+    "Round name": "ROUTE 18.   LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "DEANS CROFT",
+    "Length": "186",
+    "Round name": "ROUTE 18.   LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "GLEDHILL PARK",
+    "Length": "85",
+    "Round name": "ROUTE 18.   LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "GORSE LANE",
+    "Length": "265",
+    "Round name": "ROUTE 18.   LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "GROSVENOR CLOSE",
+    "Length": "227",
+    "Round name": "ROUTE 18.   LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HILLSIDE",
+    "Length": "460",
+    "Round name": "ROUTE 18.   LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HUNTER CLOSE",
+    "Length": "63",
+    "Round name": "ROUTE 18.   LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LABURNUM COURT",
+    "Length": "147",
+    "Round name": "ROUTE 18.   LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LONGBRIDGE ROAD",
+    "Length": "412",
+    "Round name": "ROUTE 18.   LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MAXWELL CLOSE",
+    "Length": "75",
+    "Round name": "ROUTE 18.   LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MINORS HILL",
+    "Length": "231",
+    "Round name": "ROUTE 18.   LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "QUARRY HILLS LANE",
+    "Length": "520",
+    "Round name": "ROUTE 18.   LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SEWARD CLOSE",
+    "Length": "140",
+    "Round name": "ROUTE 18.   LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SOUTHERN CROSS",
+    "Length": "30",
+    "Round name": "ROUTE 18.   LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WENTWORTH DRIVE",
+    "Length": "532",
+    "Round name": "ROUTE 18.   LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WOODFIELDS DRIVE",
+    "Length": "196",
+    "Round name": "ROUTE 18.   LICHFIELD 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ACORN CLOSE",
+    "Length": "82",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ASHLEY ROAD",
+    "Length": "76",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BALMORAL WAY (FOOTPATH)",
+    "Length": "0",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BARON CLOSE",
+    "Length": "33",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BEAUDESERT ROAD",
+    "Length": "165",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BELLS LANE",
+    "Length": "355",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BYRON CLOSE",
+    "Length": "129",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CHAWNER CLOSE",
+    "Length": "52",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CHORLEY ROAD",
+    "Length": "1400",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "COMMON VIEW",
+    "Length": "62",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "DUKE ROAD",
+    "Length": "333",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "EARLS DRIVE",
+    "Length": "116",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HEATH VIEW",
+    "Length": "129",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HILL LANE",
+    "Length": "204",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HOLLYGROVE LANE",
+    "Length": "480",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "KINGSDOWN ROAD",
+    "Length": "401",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "KNIGHT ROAD",
+    "Length": "204",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LEANDER CLOSE",
+    "Length": "159",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LONGFELLOW ROAD",
+    "Length": "283",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LYMINGTON ROAD",
+    "Length": "118",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MAT CLOSE",
+    "Length": "56",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MELFORD RISE",
+    "Length": "177",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MOWBRAY CROFT",
+    "Length": "102",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "NORTH STREET",
+    "Length": "238",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "OAK LANE",
+    "Length": "740",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "PAGET DRIVE",
+    "Length": "143",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "RAILWAY LANE",
+    "Length": "257",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SANDOWN CLOSE",
+    "Length": "127",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SANDRINGHAM CLOSE",
+    "Length": "76",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SHAW DRIVE",
+    "Length": "66",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SQUIRRELS HOLLOW",
+    "Length": "170",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "THE CRESCENT",
+    "Length": "403",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "VISCOUNT ROAD",
+    "Length": "165",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WINDSOR CLOSE",
+    "Length": "54",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BIRCH TERRACE",
+    "Length": "329",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LANCE DRIVE",
+    "Length": "50",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "FAIR LADY DRIVE",
+    "Length": "457",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "THE GROVE",
+    "Length": "46",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "THE VALLEY",
+    "Length": "66",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BLEAK HOUSE DRIVE",
+    "Length": "108",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LEA HALL DRIVE",
+    "Length": "117",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MAVOR AVENUE",
+    "Length": "194",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "COULSON CLOSE",
+    "Length": "48",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LITTLETON WAY",
+    "Length": "175",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SUNNYMEAD ROAD",
+    "Length": "85",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SPINNEY CLOSE",
+    "Length": "102",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "TWO OAKES AVENUE",
+    "Length": "213",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "PARK CROFT",
+    "Length": "49",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WEMBLEY LANE",
+    "Length": "80",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "GULLICK WAY",
+    "Length": "152",
+    "Round name": "ROUTE 19. BURNTWOOD.  2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ALDEN HURST",
+    "Length": "168",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ASPEN GROVE",
+    "Length": "68",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BEECHEN GROVE",
+    "Length": "124",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BLENHEIM ROAD",
+    "Length": "257",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BRACKENHILL ROAD",
+    "Length": "172",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CALIFORNIAN GROVE",
+    "Length": "149",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CHAPEL STREET",
+    "Length": "138",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CHAUCER DRIVE",
+    "Length": "120",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "COLUMBIAN CRESCENT",
+    "Length": "223",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "COPPICE CLOSE",
+    "Length": "112",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CORSICAN CLOSE",
+    "Length": "48",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CROSS STREET",
+    "Length": "239",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "DEAL AVENUE",
+    "Length": "53",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "FERNLEIGH AVENUE",
+    "Length": "136",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "GRIFFIN CLOSE",
+    "Length": "132",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "JOHNSON ROAD",
+    "Length": "59",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "KIPLING AVENUE",
+    "Length": "65",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LEBANON GROVE",
+    "Length": "310",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LINDEN AVENUE",
+    "Length": "116",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LOMBARDY GROVE",
+    "Length": "77",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LORNE STREET",
+    "Length": "113",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MASEFIELD CLOSE",
+    "Length": "55",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "NEW STREET",
+    "Length": "394",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "OAKEN GARDENS",
+    "Length": "44",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "PARK ROAD",
+    "Length": "356",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "PLANT LANE",
+    "Length": "452",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "RADMORE CLOSE",
+    "Length": "47",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "RING ROAD",
+    "Length": "541",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ROBINSON ROAD",
+    "Length": "384",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "RYECROFT DRIVE",
+    "Length": "54",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SCHOOL CLOSE",
+    "Length": "38",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SCHOOL WALK",
+    "Length": "120",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SHAKESPEARE ROAD",
+    "Length": "232",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SPENCER DRIVE",
+    "Length": "165",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "TENNYSON AVENUE",
+    "Length": "101",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "THORNFIELD CRESCENT",
+    "Length": "256",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "THORPE AVENUE",
+    "Length": "236",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "THORPE CLOSE",
+    "Length": "44",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "THORPE STREET",
+    "Length": "430",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WATER STREET",
+    "Length": "289",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WORDSWORTH ROAD",
+    "Length": "261",
+    "Round name": "BURNTWOOD ROUTE 20. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ASHMEAD ROAD",
+    "Length": "543",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BAMPTON AVENUE",
+    "Length": "99",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BOULTON CLOSE",
+    "Length": "345",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BRAMBLE LANE",
+    "Length": "332",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BRUNEL CLOSE",
+    "Length": "47",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CARLTON CRESCENT",
+    "Length": "100",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CLINTON CRESCENT",
+    "Length": "84",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CLIVE ROAD",
+    "Length": "123",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "COURT DRIVE",
+    "Length": "62",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CRANEFIELD ROAD",
+    "Length": "166",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CUMBERLAND CRESCENT",
+    "Length": "83",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "DEERFOLD CRESCENT",
+    "Length": "365",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "DUNSTON DRIVE",
+    "Length": "61",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "DURSLEY ROAD",
+    "Length": "79",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "EASTWOOD AVENUE",
+    "Length": "121",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "FIELDHOUSE ROAD",
+    "Length": "86",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "GALWAY ROAD",
+    "Length": "87",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HALSTON ROAD",
+    "Length": "51",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HIGHFIELD AVENUE",
+    "Length": "449",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HIGHFIELD CLOSE",
+    "Length": "73",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HUNSLET ROAD",
+    "Length": "1027",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HUNTSMANS GATE",
+    "Length": "211",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LAMBERT DRIVE",
+    "Length": "145",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LULWORTH ROAD",
+    "Length": "90",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MACADAM DRIVE",
+    "Length": "71",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "METCALF LANE",
+    "Length": "52",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MORLINGS DRIVE",
+    "Length": "44",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MYATT AVENUE",
+    "Length": "256",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "RAKE HILL ROAD",
+    "Length": "652",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ROCHESTER AVENUE",
+    "Length": "731",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "STAMFORD CRESCENT",
+    "Length": "89",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "TELFORD CLOSE",
+    "Length": "137",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "TREVITHICK CLOSE",
+    "Length": "185",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WESTWOODS HOLLOW",
+    "Length": "259",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WILKINSON CLOSE",
+    "Length": "50",
+    "Round name": "ROUTE 21. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "PENK DRIVE",
+    "Length": "87",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "KEEBLE CLOSE",
+    "Length": "49",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WESTBOURNE CRESCENT",
+    "Length": "60",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "FARWELL LANE",
+    "Length": "519",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ANKERS CLOSE",
+    "Length": "72",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ANSON CLOSE",
+    "Length": "62",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BLYTHE CLOSE",
+    "Length": "102",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BRACKEN CLOSE",
+    "Length": "137",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BROWNING ROAD",
+    "Length": "103",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BURNS DRIVE",
+    "Length": "90",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CANTERBURY DRIVE",
+    "Length": "133",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "DALE ROAD",
+    "Length": "82",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "DARWIN CLOSE",
+    "Length": "102",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "DERWENT GROVE",
+    "Length": "82",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "DOVE CLOSE",
+    "Length": "149",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ELDER LANE",
+    "Length": "463",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "EMMANUEL ROAD",
+    "Length": "231",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "GARRICK RISE",
+    "Length": "95",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "GORSTY LEA",
+    "Length": "428",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HAMPS CLOSE",
+    "Length": "99",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HIGHFIELDS",
+    "Length": "236",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HUNTER AVENUE",
+    "Length": "282",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "JEROME WAY",
+    "Length": "245",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LAUREL DRIVE",
+    "Length": "103",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LEAM DRIVE",
+    "Length": "337",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LEIGH AVENUE",
+    "Length": "59",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MANIFOLD CLOSE",
+    "Length": "35",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MEASE AVENUE",
+    "Length": "259",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "POOLES WAY",
+    "Length": "256",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ROSE LANE",
+    "Length": "210",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SCHOLARS GATE",
+    "Length": "241",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SEVERN DRIVE",
+    "Length": "580",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "STOUR CLOSE",
+    "Length": "203",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "TAME AVENUE",
+    "Length": "114",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "TEAN CLOSE",
+    "Length": "139",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "TRENT CLOSE",
+    "Length": "69",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WEDGEWOOD CLOSE",
+    "Length": "49",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WHITEHOUSE CRESCENT",
+    "Length": "109",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WOODFORD CRESCENT",
+    "Length": "145",
+    "Round name": "ROUTE 22. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BLANDFORD GARDENS",
+    "Length": "48",
+    "Round name": "ROUTE 23. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BURNTWOOD ROAD",
+    "Length": "696",
+    "Round name": "ROUTE 23. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "COPPY NOOK LANE",
+    "Length": "740",
+    "Round name": "ROUTE 23. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "DEWSBURY DRIVE",
+    "Length": "82",
+    "Round name": "ROUTE 23. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "FAIRFORD GARDENS",
+    "Length": "87",
+    "Round name": "ROUTE 23. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "FIELDFARE",
+    "Length": "37",
+    "Round name": "ROUTE 23. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "FORGE CLOSE",
+    "Length": "91",
+    "Round name": "ROUTE 23. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HUDSON DRIVE",
+    "Length": "289",
+    "Round name": "ROUTE 23. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LIME GROVE",
+    "Length": "227",
+    "Round name": "ROUTE 23. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MAIDSTONE DRIVE",
+    "Length": "86",
+    "Round name": "ROUTE 23. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MANSION DRIVE",
+    "Length": "246",
+    "Round name": "ROUTE 23. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MEADOW VIEW",
+    "Length": "166",
+    "Round name": "ROUTE 23. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MEERASH LANE",
+    "Length": "1078",
+    "Round name": "ROUTE 23. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "NAILERS DRIVE",
+    "Length": "457",
+    "Round name": "ROUTE 23. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "OVERTON LANE",
+    "Length": "1034",
+    "Round name": "ROUTE 23. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "PINGLE LANE",
+    "Length": "250",
+    "Round name": "ROUTE 23. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "REDWING CLOSE",
+    "Length": "54",
+    "Round name": "ROUTE 23. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SISKIN CLOSE",
+    "Length": "49",
+    "Round name": "ROUTE 23. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ST BENEDICTS ROAD",
+    "Length": "109",
+    "Round name": "ROUTE 23. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ST GILES ROAD",
+    "Length": "121",
+    "Round name": "ROUTE 23. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ST LUKES ROAD",
+    "Length": "202",
+    "Round name": "ROUTE 23. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ST MARKS ROAD",
+    "Length": "159",
+    "Round name": "ROUTE 23. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ST PAULS ROAD",
+    "Length": "286",
+    "Round name": "ROUTE 23. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ST PETERS ROAD",
+    "Length": "130",
+    "Round name": "ROUTE 23. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ST STEPHENS ROAD",
+    "Length": "139",
+    "Round name": "ROUTE 23. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "STACKHAY LANE",
+    "Length": "340",
+    "Round name": "ROUTE 23. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "STAPLEFORD GARDENS",
+    "Length": "60",
+    "Round name": "ROUTE 23. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "TUDOR CLOSE",
+    "Length": "126",
+    "Round name": "ROUTE 23. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "TUDOR ROAD",
+    "Length": "162",
+    "Round name": "ROUTE 23. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WILLOW AVENUE",
+    "Length": "203",
+    "Round name": "ROUTE 23. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "AVON ROAD",
+    "Length": "177",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BRANTWOOD AVENUE",
+    "Length": "88",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BROOK END",
+    "Length": "52",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BROOKLYN ROAD",
+    "Length": "367",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BURLEIGH CROFT ",
+    "Length": "65",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CRANE DRIVE",
+    "Length": "240",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "EASTCOTE CRESCENT",
+    "Length": "123",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "FERNDALE CLOSE",
+    "Length": "115",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "FOXCROFT CLOSE",
+    "Length": "148",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "FOXHILLS CLOSE",
+    "Length": "58",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "FRANKLIN DRIVE",
+    "Length": "160",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "GLENMORE AVENUE",
+    "Length": "309",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "GORSEWAY",
+    "Length": "213",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "GRANGE AVENUE",
+    "Length": "165",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HENLEY CLOSE",
+    "Length": "147",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HILLCREST RISE",
+    "Length": "234",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "KEEPERS CLOSE",
+    "Length": "80",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LARKSPUR AVENUE",
+    "Length": "417",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LEAFENDEN AVENUE",
+    "Length": "368",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LOFTUS COURT",
+    "Length": "93",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MANOR RISE",
+    "Length": "576",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MEADWAY STREET",
+    "Length": "242",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MOSS BANK AVENUE",
+    "Length": "144",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MOUNT ROAD",
+    "Length": "260",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "NEWGATE STREET",
+    "Length": "400",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "OVERHILL ROAD",
+    "Length": "363",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "PARK AVENUE",
+    "Length": "42",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "PARK ROAD",
+    "Length": "356",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "PROSPECT ROAD",
+    "Length": "310",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "REDFERN DRIVE",
+    "Length": "170",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "RUSSETT CLOSE",
+    "Length": "100",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SEGEMOOR AVENUE",
+    "Length": "102",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "SUMMERFIELD ROAD",
+    "Length": "235",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "THISTLEDOWN AVENUE",
+    "Length": "326",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WARREN ROAD",
+    "Length": "309",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WHEATCROFT CLOSE",
+    "Length": "92",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WOODLAND WAY",
+    "Length": "310",
+    "Round name": "ROUTE 24. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BAKER STREET",
+    "Length": "869",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BANK CRESCENT",
+    "Length": "174",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BARN CROFT",
+    "Length": "97",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BEECH CRESCENT",
+    "Length": "262",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BELVEDERE CLOSE",
+    "Length": "212",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BIRCH AVENUE",
+    "Length": "649",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "BLACKTHORNE AVENUE",
+    "Length": "111",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CEDAR CLOSE",
+    "Length": "309",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CEDAR ROAD",
+    "Length": "552",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CHASE VALE",
+    "Length": "362",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CHERRY CLOSE",
+    "Length": "90",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "CHURCH STREET",
+    "Length": "549",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "COPTHORNE AVENUE",
+    "Length": "111",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "COTTAGE CLOSE",
+    "Length": "92",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "COTTAGE LANE",
+    "Length": "311",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "EDWARDS ROAD",
+    "Length": "196",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ELMHURST DRIVE",
+    "Length": "88",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ELUNDA GROVE",
+    "Length": "175",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HAWTHORNE CRESCENT",
+    "Length": "177",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HAZELMERE DRIVE",
+    "Length": "53",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "HILL STREET",
+    "Length": "385",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "KING STREET",
+    "Length": "226",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "KNOLL CLOSE",
+    "Length": "124",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LABURNUM GROVE",
+    "Length": "219",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LAWNSWOOD AVENUE",
+    "Length": "936",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "LILAC GROVE",
+    "Length": "46",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "MAPLE CLOSE",
+    "Length": "246",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "NEW STREET",
+    "Length": "253",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "OATFIELD CLOSE",
+    "Length": "56",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "PAVIORS ROAD",
+    "Length": "119",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "PINE GROVE",
+    "Length": "48",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "POPLAR AVENUE",
+    "Length": "234",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "QUEENS DRIVE",
+    "Length": "148",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ROWAN GROVE",
+    "Length": "116",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ST. ANNES CLOSE",
+    "Length": "172",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "THE ORCHARD",
+    "Length": "55",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "UNION STREET",
+    "Length": "270",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WHARF LANE",
+    "Length": "94",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "WILLETT AVENUE",
+    "Length": "211",
+    "Round name": "ROUTE 25. BURNTWOOD. 2 MONTHLY.",
+    "Frequency": "Every other month"
+  },
+  {
+    "Road name": "ANSON ROAD",
+    "Length": "149",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "BURWAY MEADOW",
+    "Length": "143",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CHASEVIEW ROAD",
+    "Length": "259",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CHURCH ROAD",
+    "Length": "310",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CHURCHILL CRESCENT",
+    "Length": "120",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "DAISY LANE (PART)",
+    "Length": "166",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "DAISY LANE.",
+    "Length": "2349",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "DARK LANE",
+    "Length": "461",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "DEEPMORE CLOSE",
+    "Length": "364",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "ESSINGTON CLOSE",
+    "Length": "50",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "EXCHANGE ROAD",
+    "Length": "113",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "FOX LANE",
+    "Length": "639",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "FURLONG CLOSE",
+    "Length": "185",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "FURLONG LANE",
+    "Length": "362",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "GREAT FURLONG",
+    "Length": "81",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "GREENFIELD AVENUE",
+    "Length": "79",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "INGE DRIVE",
+    "Length": "125",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "KINGS BROMLEY ROAD",
+    "Length": "340",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "MAIN STREET",
+    "Length": "1009",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "MICKLEHOLME DRIVE",
+    "Length": "713",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "MILL END LANE",
+    "Length": "433",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "NOON CROFT",
+    "Length": "64",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "OAKFIELD ROAD",
+    "Length": "679",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "PARK ROAD",
+    "Length": "581",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "POPPY GARDENS",
+    "Length": "87",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "POST OFFICE ROAD",
+    "Length": "283",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "SELWYN CLOSE",
+    "Length": "140",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "SOMERVILLE ROAD",
+    "Length": "422",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "THE MOORINGS",
+    "Length": "112",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "TURTON CLOSE",
+    "Length": "100",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "WALKFIELD ROAD",
+    "Length": "277",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "WELLFIELD ROAD",
+    "Length": "499",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "WILLIAM IV ROAD",
+    "Length": "139",
+    "Round name": "ROUTE 26. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "A.513. ALREWAS TO TAMWORTH BOUNDARY.",
+    "Length": "11053",
+    "Round name": "ROUTE 27. ALREWAS  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "ARMITAGE. A.513 RUGELEY ROAD",
+    "Length": "2845",
+    "Round name": "ROUTE 28. ARMITAGE AND HANDSACRE.  MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "HANDSACRE B.5014 LICHFIELD ROAD",
+    "Length": "997",
+    "Round name": "ROUTE 28. ARMITAGE AND HANDSACRE.  MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "HANDSACRE A.513 NEW ROAD",
+    "Length": "519",
+    "Round name": "ROUTE 28. ARMITAGE AND HANDSACRE.  MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "A.513 KINGS BROMLEY LANE",
+    "Length": "2790",
+    "Round name": "ROUTE 28. ARMITAGE AND HANDSACRE.  MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "A.513 THE GREEN",
+    "Length": "743",
+    "Round name": "ROUTE 28. ARMITAGE AND HANDSACRE.  MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "BOATHOUSE LANE",
+    "Length": "75",
+    "Round name": "ROUTE 29. ARMITAGE  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CHASE VIEW",
+    "Length": "45",
+    "Round name": "ROUTE 29. ARMITAGE  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CHAPEL ROAD",
+    "Length": "147",
+    "Round name": "ROUTE 29. ARMITAGE  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CHURCH LANE",
+    "Length": "194",
+    "Round name": "ROUTE 29. ARMITAGE  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "COPSE DRIVE",
+    "Length": "71",
+    "Round name": "ROUTE 29. ARMITAGE  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "DAWES CLOSE",
+    "Length": "203",
+    "Round name": "ROUTE 29. ARMITAGE  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "DYKE ROAD",
+    "Length": "129",
+    "Round name": "ROUTE 29. ARMITAGE  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "ELLIOT CLOSE",
+    "Length": "80",
+    "Round name": "ROUTE 29. ARMITAGE  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "FOX LEIGH MEADOW",
+    "Length": "166",
+    "Round name": "ROUTE 29. ARMITAGE  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "HAZEL DRIVE",
+    "Length": "325",
+    "Round name": "ROUTE 29. ARMITAGE  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "HOOD LANE",
+    "Length": "1649",
+    "Round name": "ROUTE 29. ARMITAGE  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "LAKESIDE VIEW",
+    "Length": "77",
+    "Round name": "ROUTE 29. ARMITAGE  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "MANOR COURT DRIVE",
+    "Length": "401",
+    "Round name": "ROUTE 29. ARMITAGE  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "MEADOW WAY",
+    "Length": "80",
+    "Round name": "ROUTE 29. ARMITAGE  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "MILLCROFT WAY",
+    "Length": "211",
+    "Round name": "ROUTE 29. ARMITAGE  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "MILLMOOR AVENUE",
+    "Length": "307",
+    "Round name": "ROUTE 29. ARMITAGE  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "OLD ROAD",
+    "Length": "885",
+    "Round name": "ROUTE 29. ARMITAGE  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "PEAKE CLOSE",
+    "Length": "254",
+    "Round name": "ROUTE 29. ARMITAGE  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "PIKE LANE",
+    "Length": "191",
+    "Round name": "ROUTE 29. ARMITAGE  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "RECTORY GARDENS",
+    "Length": "136",
+    "Round name": "ROUTE 29. ARMITAGE  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "RECTORY LANE",
+    "Length": "312",
+    "Round name": "ROUTE 29. ARMITAGE  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "SHELLEY CLOSE",
+    "Length": "100",
+    "Round name": "ROUTE 29. ARMITAGE  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "SHROPSHIRE BROOK ROAD",
+    "Length": "954",
+    "Round name": "ROUTE 29. ARMITAGE  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "STATION DRIVE",
+    "Length": "177",
+    "Round name": "ROUTE 29. ARMITAGE  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "TARGATE COURT",
+    "Length": "42",
+    "Round name": "ROUTE 29. ARMITAGE  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "UPPER LODGE ROAD",
+    "Length": "412",
+    "Round name": "ROUTE 29. ARMITAGE  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "WESTFIELDS ROAD",
+    "Length": "329",
+    "Round name": "ROUTE 29. ARMITAGE  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "WINCHESTER CLOSE",
+    "Length": "83",
+    "Round name": "ROUTE 29. ARMITAGE  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "WORDSWORTH CLOSE",
+    "Length": "144",
+    "Round name": "ROUTE 29. ARMITAGE  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "YEOMAN WAY",
+    "Length": "33",
+    "Round name": "ROUTE 29. ARMITAGE  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "YEW CLOSE",
+    "Length": "63",
+    "Round name": "ROUTE 29. ARMITAGE  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "B.5014 VILLAGE",
+    "Length": "417",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "ALANDALE AVENUE",
+    "Length": "70",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "BARN ROAD",
+    "Length": "130",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "BOXER CLOSE",
+    "Length": "71",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "BRIDGE ROAD",
+    "Length": "99",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CHESTNUT CLOSE",
+    "Length": "288",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CROFT LEES",
+    "Length": "166",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "FAIR VIEW",
+    "Length": "154",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "FORD WAY",
+    "Length": "237",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "GLEBE ROAD",
+    "Length": "121",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "HANDSACRE CRESCENT",
+    "Length": "316",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "HARVEY ROAD",
+    "Length": "318",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "HIGHFIELD AVENUE",
+    "Length": "88",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "HILLTOP VIEW",
+    "Length": "275",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "JOHNS AVENUE",
+    "Length": "52",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "LEASIDE AVENUE",
+    "Length": "48",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "LEET DRIVE",
+    "Length": "61",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "LINFORD CLOSE",
+    "Length": "76",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "MOAT WAY",
+    "Length": "227",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "OLD ROAD",
+    "Length": "195",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "PINFOLD DRIVE",
+    "Length": "215",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "POPLARS ROAD",
+    "Length": "193",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "PROCTORS ROAD",
+    "Length": "272",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "REEVE CLOSE",
+    "Length": "58",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "ROOKERY CLOSE",
+    "Length": "148",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "ROWAN DRIVE",
+    "Length": "265",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "SPODE AVENUE",
+    "Length": "95",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "ST BARBARA ROAD",
+    "Length": "133",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "THE GREEN",
+    "Length": "743",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "TUPPENHURST LANE",
+    "Length": "2233",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "WARREN CROFT",
+    "Length": "174",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "WOODLANDS WAY",
+    "Length": "104",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "WOODSHOOT AVENUE",
+    "Length": "62",
+    "Round name": "ROUTE 30. HANDSACRE.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "BLITHBURY VILLAGE",
+    "Length": "937",
+    "Round name": "ROUTE 31. BLITHBURY AND COLTON.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "B.5014 UTTOXETER ROAD.",
+    "Length": "973",
+    "Round name": "ROUTE 31. BLITHBURY AND COLTON.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "BELLAMOUR WAY",
+    "Length": "784",
+    "Round name": "ROUTE 31. BLITHBURY AND COLTON.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "HEATH WAY",
+    "Length": "398",
+    "Round name": "ROUTE 31. BLITHBURY AND COLTON.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "HIGH STREET",
+    "Length": "845",
+    "Round name": "ROUTE 31. BLITHBURY AND COLTON.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "HOLLOW LANE",
+    "Length": "1423",
+    "Round name": "ROUTE 31. BLITHBURY AND COLTON.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "MANOR WAY",
+    "Length": "59",
+    "Round name": "ROUTE 31. BLITHBURY AND COLTON.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "MARTLIN LANE",
+    "Length": "71",
+    "Round name": "ROUTE 31. BLITHBURY AND COLTON.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "MOOR CROFT.",
+    "Length": "69",
+    "Round name": "ROUTE 31. BLITHBURY AND COLTON.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "A.515  (A.51 TO A.513 JUNCTION, KINGS BROMLEY).",
+    "Length": "5472",
+    "Round name": "ROUTE 32. VILLAGES (HANCH; ELMHURST; BLITHBURY; HILL RIDWARE; COLTON.)  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "B.5014 LICHFIELD ROAD (SEEDY MILL TO HANDSACRE ).",
+    "Length": "2385",
+    "Round name": "ROUTE 32. VILLAGES (HANCH; ELMHURST; BLITHBURY; HILL RIDWARE; COLTON.)  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "VILLAGE AREA",
+    "Length": "1958",
+    "Round name": "ROUTE 32. VILLAGES (HANCH; ELMHURST; BLITHBURY; HILL RIDWARE; COLTON.)  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "B.5014 (UTTOXETER ROAD)",
+    "Length": "1365",
+    "Round name": "ROUTE 32. VILLAGES (HANCH; ELMHURST; BLITHBURY; HILL RIDWARE; COLTON.)  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "B.5014 (UTTOXETER ROAD).",
+    "Length": "1308",
+    "Round name": "ROUTE 32. VILLAGES (HANCH; ELMHURST; BLITHBURY; HILL RIDWARE; COLTON.)  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "B.5013 COLTON LANE (YORKSHIREMAN PUB TO BOUNDARY).",
+    "Length": "4513",
+    "Round name": "ROUTE 32. VILLAGES (HANCH; ELMHURST; BLITHBURY; HILL RIDWARE; COLTON.)  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "C.107 LICHFIELD ROAD/BLITHBURY ROAD.",
+    "Length": "1534",
+    "Round name": "ROUTE 33. HAMSTALL AND HILL RIDWARE.  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "D.191 ",
+    "Length": "406",
+    "Round name": "ROUTE 33. HAMSTALL AND HILL RIDWARE.  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "B.5014 THROUGH VILLAGE",
+    "Length": "3013",
+    "Round name": "ROUTE 33. HAMSTALL AND HILL RIDWARE.  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CHADWICK CRESCENT",
+    "Length": "249",
+    "Round name": "ROUTE 33. HAMSTALL AND HILL RIDWARE.  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CHURCH LANE",
+    "Length": "2012",
+    "Round name": "ROUTE 33. HAMSTALL AND HILL RIDWARE.  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "MAVESYN CLOSE",
+    "Length": "161",
+    "Round name": "ROUTE 33. HAMSTALL AND HILL RIDWARE.  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "OAKLANDS CLOSE",
+    "Length": "249",
+    "Round name": "ROUTE 33. HAMSTALL AND HILL RIDWARE.  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "RAKE END COURT",
+    "Length": "52",
+    "Round name": "ROUTE 33. HAMSTALL AND HILL RIDWARE.  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "SANDFORD CLOSE",
+    "Length": "110",
+    "Round name": "ROUTE 33. HAMSTALL AND HILL RIDWARE.  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "SCHOOL LANE",
+    "Length": "357",
+    "Round name": "ROUTE 33. HAMSTALL AND HILL RIDWARE.  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "WADE CLOSE",
+    "Length": "63",
+    "Round name": "ROUTE 33. HAMSTALL AND HILL RIDWARE.  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "WADE LANE",
+    "Length": "379",
+    "Round name": "ROUTE 33. HAMSTALL AND HILL RIDWARE.  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "BRICKHOUSE LANE",
+    "Length": "1939",
+    "Round name": "ROUTE 34.  ELFORD; EDINGALE AND CROXALL.  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CHURCH ROAD",
+    "Length": "183",
+    "Round name": "ROUTE 34.  ELFORD; EDINGALE AND CROXALL.  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CROFT CLOSE",
+    "Length": "360",
+    "Round name": "ROUTE 34.  ELFORD; EDINGALE AND CROXALL.  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "THE BECK",
+    "Length": "429",
+    "Round name": "ROUTE 34.  ELFORD; EDINGALE AND CROXALL.  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "THE GARDENS",
+    "Length": "147",
+    "Round name": "ROUTE 34.  ELFORD; EDINGALE AND CROXALL.  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "THE SHRUBBERY",
+    "Length": "461",
+    "Round name": "ROUTE 34.  ELFORD; EDINGALE AND CROXALL.  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "THE SQUARE",
+    "Length": "196",
+    "Round name": "ROUTE 34.  ELFORD; EDINGALE AND CROXALL.  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "BLAKEWAYS CLOSE",
+    "Length": "287",
+    "Round name": "ROUTE 34.  ELFORD; EDINGALE AND CROXALL.  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CHURCH LANE",
+    "Length": "187",
+    "Round name": "ROUTE 34.  ELFORD; EDINGALE AND CROXALL.  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CROXALL ROAD (PART)",
+    "Length": "504",
+    "Round name": "ROUTE 34.  ELFORD; EDINGALE AND CROXALL.  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CROXALL ROAD SERVICE ROAD",
+    "Length": "161",
+    "Round name": "ROUTE 34.  ELFORD; EDINGALE AND CROXALL.  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "HATCHETT LANE",
+    "Length": "165",
+    "Round name": "ROUTE 34.  ELFORD; EDINGALE AND CROXALL.  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "MAIN ROAD",
+    "Length": "202",
+    "Round name": "ROUTE 34.  ELFORD; EDINGALE AND CROXALL.  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "MOORES CROFT",
+    "Length": "125",
+    "Round name": "ROUTE 34.  ELFORD; EDINGALE AND CROXALL.  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "PESSALL LANE",
+    "Length": "1891",
+    "Round name": "ROUTE 34.  ELFORD; EDINGALE AND CROXALL.  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "RADDLE LANE (PART)",
+    "Length": "81",
+    "Round name": "ROUTE 34.  ELFORD; EDINGALE AND CROXALL.  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CROXALL ROAD",
+    "Length": "2760",
+    "Round name": "ROUTE 34.  ELFORD; EDINGALE AND CROXALL.  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "C.294 SCOTLAND LANE",
+    "Length": "220",
+    "Round name": "ROUTE 35. HARLASTON; CLIFTON CAMPVILLE; HAUNTON; COMBERFORD.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "MAIN ROAD",
+    "Length": "407",
+    "Round name": "ROUTE 35. HARLASTON; CLIFTON CAMPVILLE; HAUNTON; COMBERFORD.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "MANOR LANE",
+    "Length": "237",
+    "Round name": "ROUTE 35. HARLASTON; CLIFTON CAMPVILLE; HAUNTON; COMBERFORD.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "HAUNTON ROAD",
+    "Length": "169",
+    "Round name": "ROUTE 35. HARLASTON; CLIFTON CAMPVILLE; HAUNTON; COMBERFORD.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CHURCHSIDE",
+    "Length": "146",
+    "Round name": "ROUTE 35. HARLASTON; CLIFTON CAMPVILLE; HAUNTON; COMBERFORD.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CHESTNUT LANE (PART)",
+    "Length": "551",
+    "Round name": "ROUTE 35. HARLASTON; CLIFTON CAMPVILLE; HAUNTON; COMBERFORD.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CHURCH STREET",
+    "Length": "895",
+    "Round name": "ROUTE 35. HARLASTON; CLIFTON CAMPVILLE; HAUNTON; COMBERFORD.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CHURCH STREET (SPUR ROAD)",
+    "Length": "112",
+    "Round name": "ROUTE 35. HARLASTON; CLIFTON CAMPVILLE; HAUNTON; COMBERFORD.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "COPPICE LANE",
+    "Length": "1160",
+    "Round name": "ROUTE 35. HARLASTON; CLIFTON CAMPVILLE; HAUNTON; COMBERFORD.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": " LULLINGTON ROAD (PART)",
+    "Length": "114",
+    "Round name": "ROUTE 35. HARLASTON; CLIFTON CAMPVILLE; HAUNTON; COMBERFORD.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "ST. ANDREWS CLOSE",
+    "Length": "152",
+    "Round name": "ROUTE 35. HARLASTON; CLIFTON CAMPVILLE; HAUNTON; COMBERFORD.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "ST. DAVIDS ROAD",
+    "Length": "62",
+    "Round name": "ROUTE 35. HARLASTON; CLIFTON CAMPVILLE; HAUNTON; COMBERFORD.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "MAIN STREET",
+    "Length": "1100",
+    "Round name": "ROUTE 35. HARLASTON; CLIFTON CAMPVILLE; HAUNTON; COMBERFORD.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "SYERSCOTE LANE (PART - MAIN STREET TOWARDS WIGGINGTON).",
+    "Length": "240",
+    "Round name": "ROUTE 35. HARLASTON; CLIFTON CAMPVILLE; HAUNTON; COMBERFORD.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "TOLL GATE LANE",
+    "Length": "275",
+    "Round name": "ROUTE 35. HARLASTON; CLIFTON CAMPVILLE; HAUNTON; COMBERFORD.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "MANOR LANE",
+    "Length": "360",
+    "Round name": "ROUTE 35. HARLASTON; CLIFTON CAMPVILLE; HAUNTON; COMBERFORD.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "BABBINGTON AVENUE",
+    "Length": "55",
+    "Round name": "ROUTE 36. WHITTINGTON.   MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "BACK LANE",
+    "Length": "668",
+    "Round name": "ROUTE 36. WHITTINGTON.   MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "BARLEY CROFT",
+    "Length": "101",
+    "Round name": "ROUTE 36. WHITTINGTON.   MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "BLACKSMITH LANE",
+    "Length": "214",
+    "Round name": "ROUTE 36. WHITTINGTON.   MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "BRAMLEY WAY",
+    "Length": "189",
+    "Round name": "ROUTE 36. WHITTINGTON.   MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "BURTON ROAD",
+    "Length": "688",
+    "Round name": "ROUTE 36. WHITTINGTON.   MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "CHAPEL LANE",
+    "Length": "310",
+    "Round name": "ROUTE 36. WHITTINGTON.   MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "CHURCH STREET",
+    "Length": "535",
+    "Round name": "ROUTE 36. WHITTINGTON.   MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "CLOISTER WALK",
+    "Length": "236",
+    "Round name": "ROUTE 36. WHITTINGTON.   MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "COMMON LANE (PART)",
+    "Length": "404",
+    "Round name": "ROUTE 36. WHITTINGTON.   MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "DARBY AVENUE",
+    "Length": "64",
+    "Round name": "ROUTE 36. WHITTINGTON.   MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "DYOTT AVENUE",
+    "Length": "340",
+    "Round name": "ROUTE 36. WHITTINGTON.   MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "FALCON DRIVE",
+    "Length": "108",
+    "Round name": "ROUTE 36. WHITTINGTON.   MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "FISHERWICK CLOSE",
+    "Length": "91",
+    "Round name": "ROUTE 36. WHITTINGTON.   MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "FISHERWICK ROAD ( TO A.513)",
+    "Length": "4906",
+    "Round name": "ROUTE 36. WHITTINGTON.   MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "KESTREL CLOSE",
+    "Length": "217",
+    "Round name": "ROUTE 36. WHITTINGTON.   MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "LANGTON CRESCENT",
+    "Length": "135",
+    "Round name": "ROUTE 36. WHITTINGTON.   MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "MAIN STREET",
+    "Length": "455",
+    "Round name": "ROUTE 36. WHITTINGTON.   MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "MERLIN WAY",
+    "Length": "134",
+    "Round name": "ROUTE 36. WHITTINGTON.   MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "MIDDLETON ROAD",
+    "Length": "321",
+    "Round name": "ROUTE 36. WHITTINGTON.   MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "NEAL CROFT",
+    "Length": "135",
+    "Round name": "ROUTE 36. WHITTINGTON.   MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "NODDINGTON AVENUE",
+    "Length": "115",
+    "Round name": "ROUTE 36. WHITTINGTON.   MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "NODDONGTON LANE",
+    "Length": "325",
+    "Round name": "ROUTE 36. WHITTINGTON.   MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "PASS AVENUE",
+    "Length": "139",
+    "Round name": "ROUTE 36. WHITTINGTON.   MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "ROCK FARM ROAD",
+    "Length": "266",
+    "Round name": "ROUTE 36. WHITTINGTON.   MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "SPRING LANE",
+    "Length": "524",
+    "Round name": "ROUTE 36. WHITTINGTON.   MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "SWAN ROAD",
+    "Length": "106",
+    "Round name": "ROUTE 36. WHITTINGTON.   MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "THE GREEN",
+    "Length": "251",
+    "Round name": "ROUTE 36. WHITTINGTON.   MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "WHITTINGTON COMMON LANE",
+    "Length": "1646",
+    "Round name": "ROUTE 36. WHITTINGTON.   MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "A.51 WHITTINGTON HEATH TO TAMWORTH BOUNDARY.",
+    "Length": "5026",
+    "Round name": "ROUTE 37. WHITTINGTON.  3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "A.5127 BIRMINGHAM ROAD (A.5 TO COURT DRIVE)",
+    "Length": "1695",
+    "Round name": "ROUTE 38. SHENSTONE AND LITTLE ASTON. MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "A.4026 BLAKE STREET/LITTLE ASTON LANE",
+    "Length": "3045",
+    "Round name": "ROUTE 38. SHENSTONE AND LITTLE ASTON. MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "A.454 ALDRIDGE ROAD (WALSALL ROAD TO CHESTER ROAD).",
+    "Length": "2043",
+    "Round name": "ROUTE 38. SHENSTONE AND LITTLE ASTON. MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "BURNETT ROAD",
+    "Length": "357",
+    "Round name": "ROUTE 38. SHENSTONE AND LITTLE ASTON. MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "LESLIE ROAD",
+    "Length": "203",
+    "Round name": "ROUTE 38. SHENSTONE AND LITTLE ASTON. MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "WALSALL ROAD (LITTLE ASTON LANE TO ROSEMARY HILL ROAD.",
+    "Length": "764",
+    "Round name": "ROUTE 38. SHENSTONE AND LITTLE ASTON. MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "FOTHERLEY BROOK ROAD",
+    "Length": "170",
+    "Round name": "ROUTE 38. SHENSTONE AND LITTLE ASTON. MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "ROSEMARY HILL ROAD",
+    "Length": "2073",
+    "Round name": "ROUTE 38. SHENSTONE AND LITTLE ASTON. MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "THORNHILL ROAD (TO RAIL BRIDGE).",
+    "Length": "500",
+    "Round name": "ROUTE 38. SHENSTONE AND LITTLE ASTON. MONTHLY.",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "A.5127 SERVICE ROAD, OFF BIRMINGHAM ROAD.",
+    "Length": "275",
+    "Round name": "ROUTE 39. SHENSTONE.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "ADMIRAL PARKER DRIVE",
+    "Length": "621",
+    "Round name": "ROUTE 39. SHENSTONE.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "BARNES ROAD",
+    "Length": "279",
+    "Round name": "ROUTE 39. SHENSTONE.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CHESTNUT DRIVE",
+    "Length": "240",
+    "Round name": "ROUTE 39. SHENSTONE.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CHURCH CLOSE",
+    "Length": "148",
+    "Round name": "ROUTE 39. SHENSTONE.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CHURCH ROAD",
+    "Length": "165",
+    "Round name": "ROUTE 39. SHENSTONE.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CHURCHILL ROAD",
+    "Length": "242",
+    "Round name": "ROUTE 39. SHENSTONE.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "EASTRIDGE CROFT",
+    "Length": "138",
+    "Round name": "ROUTE 39. SHENSTONE.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "ESSINGTON CLOSE",
+    "Length": "121",
+    "Round name": "ROUTE 39. SHENSTONE.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "FODEN CLOSE",
+    "Length": "121",
+    "Round name": "ROUTE 39. SHENSTONE.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "FOOTHERLEY ROAD",
+    "Length": "340",
+    "Round name": "ROUTE 39. SHENSTONE.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "HOLLY HILL ROAD",
+    "Length": "1018",
+    "Round name": "ROUTE 39. SHENSTONE.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "HOLM VIEW CLOSE",
+    "Length": "131",
+    "Round name": "ROUTE 39. SHENSTONE.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "LINCOLN CROFT",
+    "Length": "505",
+    "Round name": "ROUTE 39. SHENSTONE.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "MAIN STREET",
+    "Length": "248",
+    "Round name": "ROUTE 39. SHENSTONE.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "MILL BROOK DRIVE",
+    "Length": "436",
+    "Round name": "ROUTE 39. SHENSTONE.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "MILL LANE",
+    "Length": "422",
+    "Round name": "ROUTE 39. SHENSTONE.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "NEW ROAD",
+    "Length": "239",
+    "Round name": "ROUTE 39. SHENSTONE.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "OAKWOOD CLOSE",
+    "Length": "214",
+    "Round name": "ROUTE 39. SHENSTONE.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "PARK LANE (PART)",
+    "Length": "96",
+    "Round name": "ROUTE 39. SHENSTONE.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "PINFOLD HILL",
+    "Length": "579",
+    "Round name": "ROUTE 39. SHENSTONE.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "RICHARD COOPER DRIVE",
+    "Length": "456",
+    "Round name": "ROUTE 39. SHENSTONE.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "SCHOOLFIELDS ROAD",
+    "Length": "340",
+    "Round name": "ROUTE 39. SHENSTONE.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "ST JOHNS DRIVE",
+    "Length": "133",
+    "Round name": "ROUTE 39. SHENSTONE.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "ST JOHNS HILL",
+    "Length": "582",
+    "Round name": "ROUTE 39. SHENSTONE.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "STATION ROAD",
+    "Length": "119",
+    "Round name": "ROUTE 39. SHENSTONE.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "A.5127 BIRMINGHAM ROAD (ST. JOHNS HILL TO WATFORD GAP ROAD.",
+    "Length": "2809",
+    "Round name": "ROUTE 39. SHENSTONE.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "LYNN LANE",
+    "Length": "3339",
+    "Round name": "ROUTE 40. SHENSTONE; STONNALL; WALL.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "WALL HEATH LANE",
+    "Length": "733",
+    "Round name": "ROUTE 40. SHENSTONE; STONNALL; WALL.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "MILL LANE",
+    "Length": "689",
+    "Round name": "ROUTE 40. SHENSTONE; STONNALL; WALL.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CHURCH ROAD",
+    "Length": "683",
+    "Round name": "ROUTE 40. SHENSTONE; STONNALL; WALL.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CARTERSFIELD LANE",
+    "Length": "1413",
+    "Round name": "ROUTE 40. SHENSTONE; STONNALL; WALL.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "BARRACKS LANE",
+    "Length": "1508",
+    "Round name": "ROUTE 40. SHENSTONE; STONNALL; WALL.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "B.4155 LICHFIELD ROAD",
+    "Length": "524",
+    "Round name": "ROUTE 40. SHENSTONE; STONNALL; WALL.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "HANNAY HAY ROAD",
+    "Length": "4218",
+    "Round name": "ROUTE 40. SHENSTONE; STONNALL; WALL.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "FOSSEWAY LANE",
+    "Length": "2181",
+    "Round name": "ROUTE 40. SHENSTONE; STONNALL; WALL.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CLAYPIT LANE",
+    "Length": "2114",
+    "Round name": "ROUTE 40. SHENSTONE; STONNALL; WALL.   3 MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "BERRYFIELDS",
+    "Length": "140",
+    "Round name": "ROUTE 41. STONNALL AND LITTLE ASTON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "GARNET CLOSE",
+    "Length": "194",
+    "Round name": "ROUTE 41. STONNALL AND LITTLE ASTON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "GLENWOOD RISE",
+    "Length": "248",
+    "Round name": "ROUTE 41. STONNALL AND LITTLE ASTON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "HEATH CLOSE",
+    "Length": "197",
+    "Round name": "ROUTE 41. STONNALL AND LITTLE ASTON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "MAIN STREET",
+    "Length": "1337",
+    "Round name": "ROUTE 41. STONNALL AND LITTLE ASTON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "ST. PETERS CROFT",
+    "Length": "134",
+    "Round name": "ROUTE 41. STONNALL AND LITTLE ASTON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "THORN CROFT",
+    "Length": "124",
+    "Round name": "ROUTE 41. STONNALL AND LITTLE ASTON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "WALLHEATH CRESCENT",
+    "Length": "432",
+    "Round name": "ROUTE 41. STONNALL AND LITTLE ASTON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "WESTWICK CLOSE",
+    "Length": "247",
+    "Round name": "ROUTE 41. STONNALL AND LITTLE ASTON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CHURCH CLOSE",
+    "Length": "266",
+    "Round name": "ROUTE 41. STONNALL AND LITTLE ASTON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "BIRCH DRIVE",
+    "Length": "258",
+    "Round name": "ROUTE 41. STONNALL AND LITTLE ASTON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "FORGE LANE",
+    "Length": "2243",
+    "Round name": "ROUTE 41. STONNALL AND LITTLE ASTON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "GRASMERE AVENUE",
+    "Length": "85",
+    "Round name": "ROUTE 41. STONNALL AND LITTLE ASTON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "HARDWICK ROAD",
+    "Length": "1319",
+    "Round name": "ROUTE 41. STONNALL AND LITTLE ASTON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "LITTLE ASTON PARK ROAD",
+    "Length": "427",
+    "Round name": "ROUTE 41. STONNALL AND LITTLE ASTON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "MILL LANE",
+    "Length": "1036",
+    "Round name": "ROUTE 41. STONNALL AND LITTLE ASTON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "NEWICK AVENUE",
+    "Length": "472",
+    "Round name": "ROUTE 41. STONNALL AND LITTLE ASTON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "POPLAR RISE",
+    "Length": "180",
+    "Round name": "ROUTE 41. STONNALL AND LITTLE ASTON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "TALBOT AVENUE",
+    "Length": "543",
+    "Round name": "ROUTE 41. STONNALL AND LITTLE ASTON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "THE GROVE",
+    "Length": "324",
+    "Round name": "ROUTE 41. STONNALL AND LITTLE ASTON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "A.51 CONSTITUTION ISLAND TO BRERETON HILL NEW ISLAND.",
+    "Length": "5260",
+    "Round name": "ROUTE 42. LONGDON AND UPPER LONGDON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "BEECH WALK",
+    "Length": "88",
+    "Round name": "ROUTE 42. LONGDON AND UPPER LONGDON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "BERKLEY WAY",
+    "Length": "100",
+    "Round name": "ROUTE 42. LONGDON AND UPPER LONGDON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "BRERETON HILL LANE",
+    "Length": "177",
+    "Round name": "ROUTE 42. LONGDON AND UPPER LONGDON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "BROOK END",
+    "Length": "528",
+    "Round name": "ROUTE 42. LONGDON AND UPPER LONGDON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CHURCH WAY",
+    "Length": "269",
+    "Round name": "ROUTE 42. LONGDON AND UPPER LONGDON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CHURCH HILL",
+    "Length": "465",
+    "Round name": "ROUTE 42. LONGDON AND UPPER LONGDON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "GRANGE HILL",
+    "Length": "137",
+    "Round name": "ROUTE 42. LONGDON AND UPPER LONGDON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "LOWER WAY",
+    "Length": "690",
+    "Round name": "ROUTE 42. LONGDON AND UPPER LONGDON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "MILL WAY",
+    "Length": "148",
+    "Round name": "ROUTE 42. LONGDON AND UPPER LONGDON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": " ST JAMES CLOSE",
+    "Length": "215",
+    "Round name": "ROUTE 42. LONGDON AND UPPER LONGDON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "SWAN CLOSE",
+    "Length": "181",
+    "Round name": "ROUTE 42. LONGDON AND UPPER LONGDON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "THE CROFT",
+    "Length": "152",
+    "Round name": "ROUTE 42. LONGDON AND UPPER LONGDON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "THE GRANGE",
+    "Length": "177",
+    "Round name": "ROUTE 42. LONGDON AND UPPER LONGDON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "BARDY LANE",
+    "Length": "252",
+    "Round name": "ROUTE 42. LONGDON AND UPPER LONGDON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "HUNTSMANS HILL",
+    "Length": "107",
+    "Round name": "ROUTE 42. LONGDON AND UPPER LONGDON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "SHAVERS LANE",
+    "Length": "137",
+    "Round name": "ROUTE 42. LONGDON AND UPPER LONGDON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "STOCKINGS LANE",
+    "Length": "515",
+    "Round name": "ROUTE 42. LONGDON AND UPPER LONGDON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "UPPER WAY",
+    "Length": "1131",
+    "Round name": "ROUTE 42. LONGDON AND UPPER LONGDON.  3  MONTHLY.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "A.515 LICHFIELD ROAD/YOXALL ROAD (FROM JUNCT. A.513 RUGELEY RD TO LICHFIELD DISTRICT BOUNDARY)",
+    "Length": "2095",
+    "Round name": "RT. 43 KINGS BROMLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "A.515 SERVICE ROAD",
+    "Length": "54",
+    "Round name": "RT. 43 KINGS BROMLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "A.513 ALREWAS ROAD, TO A.38 JUNCT.",
+    "Length": "5660",
+    "Round name": "RT. 43 KINGS BROMLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "BRADBURY LANE",
+    "Length": "137",
+    "Round name": "RT. 43 KINGS BROMLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CHURCH LANE",
+    "Length": "92",
+    "Round name": "RT. 43 KINGS BROMLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CRAWLEY LANE",
+    "Length": "1644",
+    "Round name": "RT. 43 KINGS BROMLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "LANES CLOSE",
+    "Length": "304",
+    "Round name": "RT. 43 KINGS BROMLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "LANT CLOSE",
+    "Length": "45",
+    "Round name": "RT. 43 KINGS BROMLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "LEOFRIC CLOSE",
+    "Length": "311",
+    "Round name": "RT. 43 KINGS BROMLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "MANOR ROAD",
+    "Length": "907",
+    "Round name": "RT. 43 KINGS BROMLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "THE CROFT",
+    "Length": "66",
+    "Round name": "RT. 43 KINGS BROMLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "THE GRANGE",
+    "Length": "175",
+    "Round name": "RT. 43 KINGS BROMLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "VICTORIA MEADOW",
+    "Length": "179",
+    "Round name": "RT. 43 KINGS BROMLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "VILLAGE AREA",
+    "Length": "1455",
+    "Round name": "RT. 44.       WALL; STREETHAY AND FRADLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "ASH TREE LANE",
+    "Length": "142",
+    "Round name": "RT. 44.       WALL; STREETHAY AND FRADLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "DYOTT CLOSE",
+    "Length": "137",
+    "Round name": "RT. 44.       WALL; STREETHAY AND FRADLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "HOLLAND CLOSE",
+    "Length": "102",
+    "Round name": "RT. 44.       WALL; STREETHAY AND FRADLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "MEADOW CROFT",
+    "Length": "87",
+    "Round name": "RT. 44.       WALL; STREETHAY AND FRADLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "BURTON ROAD ( TRENT VALLEY TO A.38)",
+    "Length": "1090",
+    "Round name": "RT. 44.       WALL; STREETHAY AND FRADLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "BEECHES CROFT",
+    "Length": "105",
+    "Round name": "RT. 44.       WALL; STREETHAY AND FRADLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "BROMWICH DRIVE",
+    "Length": "151",
+    "Round name": "RT. 44.       WALL; STREETHAY AND FRADLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CHURCH LANE",
+    "Length": "839",
+    "Round name": "RT. 44.       WALL; STREETHAY AND FRADLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "DUMORE HAY LANE",
+    "Length": "711",
+    "Round name": "RT. 44.       WALL; STREETHAY AND FRADLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "EDWARDS FARM ROAD",
+    "Length": "116",
+    "Round name": "RT. 44.       WALL; STREETHAY AND FRADLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "FRADLEY LANE",
+    "Length": "934",
+    "Round name": "RT. 44.       WALL; STREETHAY AND FRADLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "HOLLY DRIVE",
+    "Length": "85",
+    "Round name": "RT. 44.       WALL; STREETHAY AND FRADLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "JACKMAN CLOSE",
+    "Length": "334",
+    "Round name": "RT. 44.       WALL; STREETHAY AND FRADLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "JACKMAN ROAD",
+    "Length": "125",
+    "Round name": "RT. 44.       WALL; STREETHAY AND FRADLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "JORDAN CLOSE",
+    "Length": "282",
+    "Round name": "RT. 44.       WALL; STREETHAY AND FRADLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "JORDAN CROFT",
+    "Length": "67",
+    "Round name": "RT. 44.       WALL; STREETHAY AND FRADLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "LONG LANE",
+    "Length": "282",
+    "Round name": "RT. 44.       WALL; STREETHAY AND FRADLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "OAKLANDS CLOSE",
+    "Length": "57",
+    "Round name": "RT. 44.       WALL; STREETHAY AND FRADLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "OLD HALL LANE",
+    "Length": "459",
+    "Round name": "RT. 44.       WALL; STREETHAY AND FRADLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "PASKIN CLOSE",
+    "Length": "247",
+    "Round name": "RT. 44.       WALL; STREETHAY AND FRADLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "SHAW CLOSE",
+    "Length": "81",
+    "Round name": "RT. 44.       WALL; STREETHAY AND FRADLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "STATFOLD LANE",
+    "Length": "463",
+    "Round name": "RT. 44.       WALL; STREETHAY AND FRADLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "THE MOOR",
+    "Length": "328",
+    "Round name": "RT. 44.       WALL; STREETHAY AND FRADLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "TURNER CROFT",
+    "Length": "167",
+    "Round name": "RT. 44.       WALL; STREETHAY AND FRADLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "WILLOW CLOSE",
+    "Length": "75",
+    "Round name": "RT. 44.       WALL; STREETHAY AND FRADLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "WORTHINGTON ROAD",
+    "Length": "907",
+    "Round name": "RT. 44.       WALL; STREETHAY AND FRADLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "HAY END LANE ( TO 30 MPH SIGN)",
+    "Length": "200",
+    "Round name": "RT. 44.       WALL; STREETHAY AND FRADLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "COMMON LANE (NEW SECTION FROM HAY END LANE)",
+    "Length": "198",
+    "Round name": "RT. 44.       WALL; STREETHAY AND FRADLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "WOOD END LANE (HILLIARDS CROSS TO A.515).",
+    "Length": "4453",
+    "Round name": "RT. 44.       WALL; STREETHAY AND FRADLEY. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "AFFLECK AVENUE",
+    "Length": "262",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "ALBERT ROAD",
+    "Length": "220",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "ALDIN CLOSE",
+    "Length": "96",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "ALTON AVENUE",
+    "Length": "167",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "BOURNE AVENUE",
+    "Length": "106",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "BREWSTER CLOSE",
+    "Length": "58",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "BROOK END",
+    "Length": "526",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "BROOKSIDE ROAD",
+    "Length": "256",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "BUXTON AVENUE",
+    "Length": "211",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CAISTOR CLOSE",
+    "Length": "52",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CORONATION AVENUE",
+    "Length": "356",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CRANWELL RISE",
+    "Length": "200",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "DAMA ROAD",
+    "Length": "301",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "DEERPARK ROAD",
+    "Length": "582",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "FALLOW ROAD",
+    "Length": "59",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "FRENCH AVENUE",
+    "Length": "328",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "GAINSBOROUGH DRIVE",
+    "Length": "395",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "GEORGE AVENUE",
+    "Length": "542",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "KIRKLAND WAY",
+    "Length": "86",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "MANOR ROAD",
+    "Length": "487",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "MAYAMA ROAD",
+    "Length": "81",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "MILL LANE",
+    "Length": "347",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "NEW STREET",
+    "Length": "385",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "PARK LANE",
+    "Length": "506",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "PRICE AVENUE",
+    "Length": "108",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "RANGIFER ROAD",
+    "Length": "114",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "REINDEER ROAD",
+    "Length": "862",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "SAMBAR ROAD",
+    "Length": "206",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "THE GREEN TOLSON AVENUE",
+    "Length": "252",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "VICTORIA DRIVE",
+    "Length": "164",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "WEST DRIVE",
+    "Length": "130",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "YORKSAND ROAD",
+    "Length": "56",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "",
+    "Length": "102",
+    "Round name": "RT. 45 FAZELEY AND MILE OAK.   3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "CHURCH ROAD",
+    "Length": "128",
+    "Round name": "RT. 46 DRAYTON BASSETT AND HOPWAS. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "DRAYTON LANE",
+    "Length": "1053",
+    "Round name": "RT. 46 DRAYTON BASSETT AND HOPWAS. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "MOAT DRIVE",
+    "Length": "383",
+    "Round name": "RT. 46 DRAYTON BASSETT AND HOPWAS. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "OLD MANOR CLOSE",
+    "Length": "147",
+    "Round name": "RT. 46 DRAYTON BASSETT AND HOPWAS. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "PEEL CLOSE",
+    "Length": "99",
+    "Round name": "RT. 46 DRAYTON BASSETT AND HOPWAS. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "RECTORY CLOSE",
+    "Length": "78",
+    "Round name": "RT. 46 DRAYTON BASSETT AND HOPWAS. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "SALTS LANE",
+    "Length": "1428",
+    "Round name": "RT. 46 DRAYTON BASSETT AND HOPWAS. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "NEW ROW",
+    "Length": "90",
+    "Round name": "RT. 46 DRAYTON BASSETT AND HOPWAS. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "HINTS LANE",
+    "Length": "1035",
+    "Round name": "RT. 46 DRAYTON BASSETT AND HOPWAS. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "HOPWAS HILL",
+    "Length": "904",
+    "Round name": "RT. 46 DRAYTON BASSETT AND HOPWAS. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "LICHFIELD CRESCENT",
+    "Length": "51",
+    "Round name": "RT. 46 DRAYTON BASSETT AND HOPWAS. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "LICHFIELD ROAD",
+    "Length": "305",
+    "Round name": "RT. 46 DRAYTON BASSETT AND HOPWAS. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "NURSERY LANE",
+    "Length": "435",
+    "Round name": "RT. 46 DRAYTON BASSETT AND HOPWAS. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "B.5404 PLANTATION LANE (LICHFIELD ROAD TO NEW ISLAND)",
+    "Length": "2545",
+    "Round name": "RT. 46 DRAYTON BASSETT AND HOPWAS. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "SCHOOL LANE",
+    "Length": "360",
+    "Round name": "RT. 46 DRAYTON BASSETT AND HOPWAS. 3 MONTHLY",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "LITTLE HAY LANE ( WATFORD GAP ROAD TO A.38)",
+    "Length": "2099",
+    "Round name": "ROUTE 47/ 47 A; B; C. LITTLE HAY; WIGGINGTON; ASHBY ROAD; WHITTINGTON.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "HUNGRY LANE",
+    "Length": "610",
+    "Round name": "ROUTE 47/ 47 A; B; C. LITTLE HAY; WIGGINGTON; ASHBY ROAD; WHITTINGTON.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "MAIN ROAD",
+    "Length": "215",
+    "Round name": "ROUTE 47/ 47 A; B; C. LITTLE HAY; WIGGINGTON; ASHBY ROAD; WHITTINGTON.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "WALRAND CLOSE",
+    "Length": "74",
+    "Round name": "ROUTE 47/ 47 A; B; C. LITTLE HAY; WIGGINGTON; ASHBY ROAD; WHITTINGTON.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "COMBERFORD LANE",
+    "Length": "215",
+    "Round name": "ROUTE 47/ 47 A; B; C. LITTLE HAY; WIGGINGTON; ASHBY ROAD; WHITTINGTON.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "SYERSCOTE LANE",
+    "Length": "134",
+    "Round name": "ROUTE 47/ 47 A; B; C. LITTLE HAY; WIGGINGTON; ASHBY ROAD; WHITTINGTON.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "B.5493 ASHBY ROAD (RAILWAY BRIDGE, TAMWORTH TO LONKHILL FARM). LEFT SIDE OF ROAD ONLY.",
+    "Length": "3296",
+    "Round name": "ROUTE 47/ 47 A; B; C. LITTLE HAY; WIGGINGTON; ASHBY ROAD; WHITTINGTON.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "HUDDLESFORD LANE",
+    "Length": "1395",
+    "Round name": "ROUTE 47/ 47 A; B; C. LITTLE HAY; WIGGINGTON; ASHBY ROAD; WHITTINGTON.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "JERRYS LANE",
+    "Length": "1486",
+    "Round name": "ROUTE 47/ 47 A; B; C. LITTLE HAY; WIGGINGTON; ASHBY ROAD; WHITTINGTON.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "FLATS LANE",
+    "Length": "1056",
+    "Round name": "ROUTE 47/ 47 A; B; C. LITTLE HAY; WIGGINGTON; ASHBY ROAD; WHITTINGTON.",
+    "Frequency": "Three monthly"
+  },
+  {
+    "Road name": "ATHERSTONE STREET",
+    "Length": "552",
+    "Round name": "RT. 48 FAZELEY; BONE HILL ; MILE OAK. MONTHLY",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "LICHFIELD ROAD",
+    "Length": "1236",
+    "Round name": "RT. 48 FAZELEY; BONE HILL ; MILE OAK. MONTHLY",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "ROMAN ROAD",
+    "Length": "87",
+    "Round name": "RT. 48 FAZELEY; BONE HILL ; MILE OAK. MONTHLY",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "TAMWORTH ROAD",
+    "Length": "135",
+    "Round name": "RT. 48 FAZELEY; BONE HILL ; MILE OAK. MONTHLY",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "HINTS ROAD",
+    "Length": "716",
+    "Round name": "RT. 48 FAZELEY; BONE HILL ; MILE OAK. MONTHLY",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "WATLING STREET",
+    "Length": "837",
+    "Round name": "RT. 48 FAZELEY; BONE HILL ; MILE OAK. MONTHLY",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "A.4091 COLESHILL ROAD  (TO WARWICKSHIRE BOUNDARY SIGN)",
+    "Length": "3192",
+    "Round name": "RT. 48 FAZELEY; BONE HILL ; MILE OAK. MONTHLY",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "A.435 SUTTON ROAD ( A.38 TO MILE OAK)",
+    "Length": "4894",
+    "Round name": "RT. 49.  A.453 AND A.5 ( INC. SCHOOL LANE, HINTS) MONTHLY",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "A.5 WATLING STREET (NOT NEW DUAL C'WAY) MILE OAK TO WALL ISLAND)",
+    "Length": "7083",
+    "Round name": "RT. 49.  A.453 AND A.5 ( INC. SCHOOL LANE, HINTS) MONTHLY",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "B.5404 HINTS ROAD.",
+    "Length": "698",
+    "Round name": "RT. 49.  A.453 AND A.5 ( INC. SCHOOL LANE, HINTS) MONTHLY",
+    "Frequency": "Monthly"
+  },
+  {
+    "Road name": "SCHOOL LANE, HINTS.",
+    "Length": "624",
+    "Round name": "RT. 49.  A.453 AND A.5 ( INC. SCHOOL LANE, HINTS) MONTHLY",
+    "Frequency": "Monthly"
+  }
+]
