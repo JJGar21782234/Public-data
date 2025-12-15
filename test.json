@@ -1,0 +1,27 @@
+{
+    "data": [{
+        "Road name": "BEACON STREET (PART)",
+        "Length": 837.0,
+        "Round name": "Lichfield weekly",
+        "Frequency": "Weekly"
+    },
+    {
+        "Road name": "BIRMINGHAM ROAD",
+        "Length": 519.0,
+        "Round name": "Lichfield weekly",
+        "Frequency": "Weekly"
+    },
+    {
+        "Road name": "BURTON OLD ROAD (PART)",
+        "Length": 300.0,
+        "Round name": "Lichfield weekly",
+        "Frequency": "Weekly"
+    },
+    {
+        "Road name": "CHURCH STREET",
+        "Length": 300.0,
+        "Round name": "Lichfield weekly",
+        "Frequency": "Weekly"
+    }
+]
+}
