@@ -1,5 +1,5 @@
-{
-    "data": [{
+[
+    {
         "Road name": "BEACON STREET (PART)",
         "Length": 837.0,
         "Round name": "Lichfield weekly",
@@ -24,4 +24,3 @@
         "Frequency": "Weekly"
     }
 ]
-}
